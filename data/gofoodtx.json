@@ -1,0 +1,1434 @@
+[
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2682668,
+        "longitude": -97.7429695,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.271876,
+        "longitude": -97.7411784,
+        "website": null
+    },
+    {
+        "name": "24 Diner",
+        "type": "restaurant",
+        "cuisine": "diner",
+        "latitude": 30.2720726,
+        "longitude": -97.7541298,
+        "website": "https://www.24diner.com/"
+    },
+    {
+        "name": "III Forks",
+        "type": "restaurant",
+        "cuisine": "steak_house",
+        "latitude": 30.264198,
+        "longitude": -97.746747,
+        "website": null
+    },
+    {
+        "name": "Moonshine Comfort & Cocktails",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 30.2637792,
+        "longitude": -97.7380295,
+        "website": "https://moonshinegrill.com/"
+    },
+    {
+        "name": "Jaimes Spanish Village",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2687136,
+        "longitude": -97.7365652,
+        "website": null
+    },
+    {
+        "name": "Roppolo's Pizza",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2670389,
+        "longitude": -97.7386841,
+        "website": null
+    },
+    {
+        "name": "Iron Cactus",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2672622,
+        "longitude": -97.7394843,
+        "website": "https://ironcactus.com/austin-downtown"
+    },
+    {
+        "name": "Old Pecan Street Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2673807,
+        "longitude": -97.7399087,
+        "website": "http://oldpecanstcafe.com/"
+    },
+    {
+        "name": "Bikinis Sports Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2675896,
+        "longitude": -97.7406574,
+        "website": "https://www.bikinissportsbarandgrill.com/Locations/austin-tx-6th-st/"
+    },
+    {
+        "name": "Happy Chicks",
+        "type": "restaurant",
+        "cuisine": "chicken",
+        "latitude": 30.2676222,
+        "longitude": -97.7407745,
+        "website": null
+    },
+    {
+        "name": "Marisco Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2673138,
+        "longitude": -97.7409874,
+        "website": null
+    },
+    {
+        "name": "Eureka",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.267757,
+        "longitude": -97.741256,
+        "website": null
+    },
+    {
+        "name": "Belmont",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2686611,
+        "longitude": -97.7454947,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2699007,
+        "longitude": -97.7540185,
+        "website": "https://www.starbucks.com/store-locator/store/11419/5th-lamar-907-w-5th-st-ste-102-austin-tx-787035427-us"
+    },
+    {
+        "name": "Eddie V's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2662223,
+        "longitude": -97.7405459,
+        "website": null
+    },
+    {
+        "name": "Revolución Coffee + Juice",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2643747,
+        "longitude": -97.7413623,
+        "website": "https://www.revolucionsa.com/"
+    },
+    {
+        "name": "Maiko Sushi",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 30.2641473,
+        "longitude": -97.7414463,
+        "website": "https://www.maikoaustin.com/"
+    },
+    {
+        "name": "Gus' Fried Chicken",
+        "type": "restaurant",
+        "cuisine": "wings",
+        "latitude": 30.26347,
+        "longitude": -97.741701,
+        "website": null
+    },
+    {
+        "name": "Le Café Crêpe",
+        "type": "cafe",
+        "cuisine": "crepe;french",
+        "latitude": 30.2638474,
+        "longitude": -97.7418971,
+        "website": "https://www.cafecrepeofaustin.com/"
+    },
+    {
+        "name": "Perry's Steakhouse",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2694661,
+        "longitude": -97.7435164,
+        "website": null
+    },
+    {
+        "name": "Quattro Gatti Ristorante",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 30.271294,
+        "longitude": -97.7418546,
+        "website": "http://www.quattrogattiaustin.com/"
+    },
+    {
+        "name": "Roaring Fork",
+        "type": "restaurant",
+        "cuisine": "steak_house",
+        "latitude": 30.2690633,
+        "longitude": -97.7421993,
+        "website": null
+    },
+    {
+        "name": "Congress Avenue Grocery",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2650401,
+        "longitude": -97.7437082,
+        "website": null
+    },
+    {
+        "name": "parkside",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.267202,
+        "longitude": -97.740299,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.265449,
+        "longitude": -97.740414,
+        "website": "https://www.starbucks.com/store-locator/store/9891/courtyard-austin-downtown-300-e-4th-st-austin-tx-787013612-us"
+    },
+    {
+        "name": "Champions",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.265402,
+        "longitude": -97.740157,
+        "website": null
+    },
+    {
+        "name": "Mai Thai",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 30.264266,
+        "longitude": -97.741411,
+        "website": "http://maithaionline.com/"
+    },
+    {
+        "name": "Slake Cafe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.268835,
+        "longitude": -97.741283,
+        "website": null
+    },
+    {
+        "name": "Jo's Coffee",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2650127,
+        "longitude": -97.7460957,
+        "website": null
+    },
+    {
+        "name": "Houndstooth",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2662841,
+        "longitude": -97.7431138,
+        "website": null
+    },
+    {
+        "name": "Vince Young Steakhouse",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2648186,
+        "longitude": -97.7411682,
+        "website": null
+    },
+    {
+        "name": "Bar Chi Sushi",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 30.2652257,
+        "longitude": -97.7454973,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2658493,
+        "longitude": -97.7465097,
+        "website": "https://www.starbucks.com/store-locator/store/1006594/3rd-lavaca-301-west-3rd-street-austin-tx-787013815-us"
+    },
+    {
+        "name": "Taverna",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 30.265099,
+        "longitude": -97.7463643,
+        "website": "https://www.tavernabylombardi.com/"
+    },
+    {
+        "name": "Bill's Oyster",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 30.2656186,
+        "longitude": -97.7456335,
+        "website": "https://www.billsoyster.com/"
+    },
+    {
+        "name": "Lamberts",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.26518,
+        "longitude": -97.747927,
+        "website": null
+    },
+    {
+        "name": "La Condesa",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.265572,
+        "longitude": -97.7477644,
+        "website": null
+    },
+    {
+        "name": "Restaurant François",
+        "type": "restaurant",
+        "cuisine": "french",
+        "latitude": 30.2661363,
+        "longitude": -97.7476193,
+        "website": "https://www.restaurantfrancois.com/"
+    },
+    {
+        "name": "The Chicago House",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 30.2676594,
+        "longitude": -97.7389772,
+        "website": "https://www.thechicagohouse.com/"
+    },
+    {
+        "name": "Chupacabra Cantina",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2671673,
+        "longitude": -97.7391442,
+        "website": "https://www.chupacabracantina.com/"
+    },
+    {
+        "name": "Rio Grande Mexican",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2647151,
+        "longitude": -97.7410729,
+        "website": null
+    },
+    {
+        "name": "Geisha Sushi & Grill",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 30.266411,
+        "longitude": -97.7364345,
+        "website": "http://www.geisha6th.com/"
+    },
+    {
+        "name": "Wright Bros. Brew & Brew",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2644493,
+        "longitude": -97.7330414,
+        "website": "https://www.thebrewandbrew.com/"
+    },
+    {
+        "name": "Cenote",
+        "type": "cafe",
+        "cuisine": "american",
+        "latitude": 30.260505,
+        "longitude": -97.733706,
+        "website": "https://cenoteaustin.com/"
+    },
+    {
+        "name": "The Grove",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.270593,
+        "longitude": -97.7509613,
+        "website": null
+    },
+    {
+        "name": "Caffé Medici",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.264819,
+        "longitude": -97.7442485,
+        "website": null
+    },
+    {
+        "name": "Fogo de Chão",
+        "type": "restaurant",
+        "cuisine": "brazilian;steak_house",
+        "latitude": 30.2645201,
+        "longitude": -97.7443922,
+        "website": "https://fogodechao.com/"
+    },
+    {
+        "name": "Gyu-Kaku",
+        "type": "restaurant",
+        "cuisine": "japanese;barbecue",
+        "latitude": 30.2633101,
+        "longitude": -97.7308402,
+        "website": null
+    },
+    {
+        "name": "Corinne",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2625953,
+        "longitude": -97.7411854,
+        "website": "https://www.corinneatx.com/"
+    },
+    {
+        "name": "Mason's Famous Lobster Rolls",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 30.2646193,
+        "longitude": -97.7447359,
+        "website": "https://www.masonslobster.com/"
+    },
+    {
+        "name": "Red Farm",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 30.2655408,
+        "longitude": -97.7453907,
+        "website": "https://www.redfarmnyc.com/location/Austin/"
+    },
+    {
+        "name": "Van Horn's",
+        "type": "restaurant",
+        "cuisine": "steak_house",
+        "latitude": 30.2649828,
+        "longitude": -97.7459901,
+        "website": "https://vanhornsatx.com/"
+    },
+    {
+        "name": "TraphouseATX",
+        "type": "restaurant",
+        "cuisine": "caribbean",
+        "latitude": 30.266118,
+        "longitude": -97.745165,
+        "website": null
+    },
+    {
+        "name": "Local Foods",
+        "type": "restaurant",
+        "cuisine": "sandwich;american",
+        "latitude": 30.265697,
+        "longitude": -97.748514,
+        "website": "https://www.localfoodstexas.com/"
+    },
+    {
+        "name": "Wu Chow",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 30.2686128,
+        "longitude": -97.7478966,
+        "website": "https://wuchowaustin.com/"
+    },
+    {
+        "name": "Capital One Café",
+        "type": "cafe",
+        "cuisine": "coffee_shop;tea",
+        "latitude": 30.2681344,
+        "longitude": -97.7425331,
+        "website": "https://www.capitalone.com/local/austin-downtownaustin/"
+    },
+    {
+        "name": "Vaquero Taquero",
+        "type": "restaurant",
+        "cuisine": "mexican;tex-mex",
+        "latitude": 30.2664657,
+        "longitude": -97.7358582,
+        "website": "http://www.vaquerotaquero.com/"
+    },
+    {
+        "name": "Fleet Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.270247,
+        "longitude": -97.742287,
+        "website": null
+    },
+    {
+        "name": "Polvo's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2671399,
+        "longitude": -97.7500446,
+        "website": null
+    },
+    {
+        "name": "Burger Bar",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 30.2646732,
+        "longitude": -97.7437945,
+        "website": "https://www.burgerbaraustin.com/"
+    },
+    {
+        "name": "Corner Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2644196,
+        "longitude": -97.7438985,
+        "website": null
+    },
+    {
+        "name": "True Food Kitchen",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2669927,
+        "longitude": -97.7523453,
+        "website": null
+    },
+    {
+        "name": "Geraldine's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2601776,
+        "longitude": -97.7392719,
+        "website": null
+    },
+    {
+        "name": "Fat Rabbit Social House",
+        "type": "restaurant",
+        "cuisine": "brunch",
+        "latitude": 30.2623206,
+        "longitude": -97.7430572,
+        "website": null
+    },
+    {
+        "name": "My Name Is Joe Coffee",
+        "type": "cafe",
+        "cuisine": "breakfast;coffee_shop",
+        "latitude": 30.2674422,
+        "longitude": -97.742689,
+        "website": "http://mynameisjoe.com"
+    },
+    {
+        "name": "Ruth's Chris Steak House",
+        "type": "restaurant",
+        "cuisine": "american;steak_house",
+        "latitude": 30.2679982,
+        "longitude": -97.7434085,
+        "website": null
+    },
+    {
+        "name": "Lonesome Dove Bistro",
+        "type": "restaurant",
+        "cuisine": "western",
+        "latitude": 30.268268,
+        "longitude": -97.744033,
+        "website": "https://lonesomedoveaustin.com/"
+    },
+    {
+        "name": "Chez Nous",
+        "type": "restaurant",
+        "cuisine": "french",
+        "latitude": 30.2664993,
+        "longitude": -97.7385412,
+        "website": null
+    },
+    {
+        "name": "Terry Black's BBQ",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.2596649,
+        "longitude": -97.7548076,
+        "website": null
+    },
+    {
+        "name": "Flower Child",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2659764,
+        "longitude": -97.7495445,
+        "website": null
+    },
+    {
+        "name": "North Italia",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2658145,
+        "longitude": -97.7489908,
+        "website": null
+    },
+    {
+        "name": "Las Trancas",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2598607,
+        "longitude": -97.7317826,
+        "website": null
+    },
+    {
+        "name": "Arlo's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2694927,
+        "longitude": -97.7362477,
+        "website": null
+    },
+    {
+        "name": "Fukumoto",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 30.2646261,
+        "longitude": -97.7317272,
+        "website": "https://www.fukumotoaustin.com/"
+    },
+    {
+        "name": "The Guesthouse",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2655237,
+        "longitude": -97.7490365,
+        "website": "https://www.welcometgh.com/"
+    },
+    {
+        "name": "Ember Kitchen",
+        "type": "restaurant",
+        "cuisine": "latin_american",
+        "latitude": 30.2668996,
+        "longitude": -97.7528357,
+        "website": "https://www.emberatx.com/"
+    },
+    {
+        "name": "Swift's Attic",
+        "type": "restaurant",
+        "cuisine": "fine_dining",
+        "latitude": 30.2656592,
+        "longitude": -97.7434871,
+        "website": "https://swiftsattic.com/"
+    },
+    {
+        "name": "Arlo Grey",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.262803,
+        "longitude": -97.744034,
+        "website": null
+    },
+    {
+        "name": "The Perch",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.260507,
+        "longitude": -97.7416741,
+        "website": null
+    },
+    {
+        "name": "Intelligentsia",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2668307,
+        "longitude": -97.7498946,
+        "website": null
+    },
+    {
+        "name": "Asador",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2675797,
+        "longitude": -97.7387281,
+        "website": null
+    },
+    {
+        "name": "Sixth and Waller",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2646369,
+        "longitude": -97.7306495,
+        "website": null
+    },
+    {
+        "name": "Anthem",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 30.2605059,
+        "longitude": -97.7379269,
+        "website": "https://eatdrinkanthem.com/"
+    },
+    {
+        "name": "Snooze",
+        "type": "restaurant",
+        "cuisine": "breakfast",
+        "latitude": 30.2633947,
+        "longitude": -97.7311464,
+        "website": "https://www.snoozeeatery.com/"
+    },
+    {
+        "name": "NADC Burger",
+        "type": "restaurant",
+        "cuisine": "american;burger",
+        "latitude": 30.2648584,
+        "longitude": -97.7322105,
+        "website": "https://www.nadcburger.com/"
+    },
+    {
+        "name": "Group Therapy",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2673146,
+        "longitude": -97.746419,
+        "website": "https://www.hotelzaza.com/austin/dining/group-therapy"
+    },
+    {
+        "name": "Yummi Joy",
+        "type": "cafe",
+        "cuisine": "coffee_shop;ice_cream",
+        "latitude": 30.2652973,
+        "longitude": -97.7482013,
+        "website": null
+    },
+    {
+        "name": "ATX Cocina",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2649037,
+        "longitude": -97.7492614,
+        "website": "https://www.atxcocina.com/"
+    },
+    {
+        "name": "The Peacock",
+        "type": "restaurant",
+        "cuisine": "mediterranean",
+        "latitude": 30.266151,
+        "longitude": -97.750323,
+        "website": "https://www.properhotel.com/austin/restaurants-bars/the-peacock/"
+    },
+    {
+        "name": "Café 605",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.260105,
+        "longitude": -97.7388864,
+        "website": null
+    },
+    {
+        "name": "Merit Coffee",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2675657,
+        "longitude": -97.7521411,
+        "website": null
+    },
+    {
+        "name": "Fixe Southern House",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2687991,
+        "longitude": -97.748568,
+        "website": "https://fixesouthernhouse.com/"
+    },
+    {
+        "name": "Café Crème",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2660988,
+        "longitude": -97.7514232,
+        "website": null
+    },
+    {
+        "name": "Hestia",
+        "type": "restaurant",
+        "cuisine": "fine_dining",
+        "latitude": 30.2668723,
+        "longitude": -97.7500637,
+        "website": "https://hestiaaustin.com/"
+    },
+    {
+        "name": "Velvet Taco",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.267997,
+        "longitude": -97.743129,
+        "website": null
+    },
+    {
+        "name": "Sushi Junai Omakase",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 30.265641,
+        "longitude": -97.743492,
+        "website": "http://sushijunaiomakase.com/"
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2606838,
+        "longitude": -97.7471138,
+        "website": "https://www.starbucks.com/store-locator/store/1007529/hyatt-regency-austin-lobby-208-barton-springs-rd-austin-tx-78704-us"
+    },
+    {
+        "name": "Zanzibar",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2629154,
+        "longitude": -97.7418482,
+        "website": "https://www.zanzibaratx.com/"
+    },
+    {
+        "name": "Uchibā",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 30.2658323,
+        "longitude": -97.7500534,
+        "website": "https://uchiba.uchirestaurants.com/"
+    },
+    {
+        "name": "Luminaire",
+        "type": "restaurant",
+        "cuisine": "texan",
+        "latitude": 30.2697418,
+        "longitude": -97.7419028,
+        "website": "https://www.hyatt.com/hyatt-centric/ausct-hyatt-centric-congress-avenue-austin/dining"
+    },
+    {
+        "name": "Caroline",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2687274,
+        "longitude": -97.7423317,
+        "website": "https://www.carolinerestaurant.com/caroline"
+    },
+    {
+        "name": "The Coffehouse at Caroline",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2687874,
+        "longitude": -97.7421935,
+        "website": "https://www.carolinerestaurant.com/the-coffeehouse-at-caroline"
+    },
+    {
+        "name": "La Colombe Coffee Roasters",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.27049,
+        "longitude": -97.7532554,
+        "website": null
+    },
+    {
+        "name": "Tacodeli",
+        "type": "restaurant",
+        "cuisine": "tacqueria",
+        "latitude": 30.2653307,
+        "longitude": -97.7435454,
+        "website": "https://locations.tacodeli.com/tacodeli-5346fd3548f4"
+    },
+    {
+        "name": "ZIKI",
+        "type": "restaurant",
+        "cuisine": "greek;mexican",
+        "latitude": 30.2655244,
+        "longitude": -97.7442323,
+        "website": "https://ziki.kitchen/"
+    },
+    {
+        "name": "ZIKI",
+        "type": "restaurant",
+        "cuisine": "greek;mexican",
+        "latitude": 30.2733418,
+        "longitude": -97.7532413,
+        "website": "https://zki.kitchen"
+    },
+    {
+        "name": "Mirandas Cafe",
+        "type": "cafe",
+        "cuisine": "breakfast;mexican",
+        "latitude": 30.2653919,
+        "longitude": -97.7428231,
+        "website": "https://www.mirandascafe.com/"
+    },
+    {
+        "name": "Truluck's",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 30.2658345,
+        "longitude": -97.7453686,
+        "website": "https://trulucks.com/locations/downtown-austin-texas/"
+    },
+    {
+        "name": "Verbena",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2698939,
+        "longitude": -97.7488753,
+        "website": null
+    },
+    {
+        "name": "CAVA",
+        "type": "restaurant",
+        "cuisine": "mediterranean",
+        "latitude": 30.267824,
+        "longitude": -97.742615,
+        "website": null
+    },
+    {
+        "name": "Mañana",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2672874,
+        "longitude": -97.7545299,
+        "website": null
+    },
+    {
+        "name": "Manny's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2677115,
+        "longitude": -97.7457896,
+        "website": "https://www.loboshospitality.com/venues/mannysaustin"
+    },
+    {
+        "name": "Wee's Cozy Kitchen",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2683825,
+        "longitude": -97.7423352,
+        "website": null
+    },
+    {
+        "name": "The Well",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2656257,
+        "longitude": -97.7482929,
+        "website": "https://www.eatwellatx.com"
+    },
+    {
+        "name": "Swim Club",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2702041,
+        "longitude": -97.7347217,
+        "website": "https://www.swimclubaustin.com/"
+    },
+    {
+        "name": "Jupiter Supper Club",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2697532,
+        "longitude": -97.7424206,
+        "website": "https://www.jupitersupperclub.com/"
+    },
+    {
+        "name": "Tenten",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 30.2692655,
+        "longitude": -97.7475552,
+        "website": "https://www.tentenaustin.com/"
+    },
+    {
+        "name": "Bull & Bowl",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2693069,
+        "longitude": -97.7476863,
+        "website": "https://www.bullandbowl.com/"
+    },
+    {
+        "name": "Perfect Strangers",
+        "type": "restaurant",
+        "cuisine": "breakfast;brunch",
+        "latitude": 30.267122,
+        "longitude": -97.7463189,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2652626,
+        "longitude": -97.7383962,
+        "website": null
+    },
+    {
+        "name": "Phoebe's Diner",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2740058,
+        "longitude": -97.7448779,
+        "website": null
+    },
+    {
+        "name": "Black Sheep Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2693448,
+        "longitude": -97.7464777,
+        "website": null
+    },
+    {
+        "name": "Thistle Cafe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2684394,
+        "longitude": -97.7448291,
+        "website": null
+    },
+    {
+        "name": "P6 – Rooftop Bar",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2627052,
+        "longitude": -97.7438717,
+        "website": "https://www.thelinehotel.com/austin/restaurants-bars/p6/"
+    },
+    {
+        "name": "Alteño",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2607681,
+        "longitude": -97.7393438,
+        "website": "https://www.1hotels.com/austin/taste/alteno"
+    },
+    {
+        "name": "Neighbors Café",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2608886,
+        "longitude": -97.7393143,
+        "website": "https://www.1hotels.com/austin/taste/neighbors"
+    },
+    {
+        "name": "Watr",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 30.2608681,
+        "longitude": -97.7397031,
+        "website": "https://www.1hotels.com/austin/taste/watr"
+    },
+    {
+        "name": "1886 Café & Bakery",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.268011,
+        "longitude": -97.7419191,
+        "website": "https://driskillhotel.com/dining/1886-café-bakery/"
+    },
+    {
+        "name": "Daydreamer Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2595226,
+        "longitude": -97.7386348,
+        "website": null
+    },
+    {
+        "name": "Ciclo",
+        "type": "restaurant",
+        "cuisine": "mexican;american",
+        "latitude": 30.2616633,
+        "longitude": -97.7425502,
+        "website": "https://www.cicloatx.com/"
+    },
+    {
+        "name": "Fleet Coffee",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 30.2597777,
+        "longitude": -97.7385807,
+        "website": "https://fleetcoffee.com"
+    },
+    {
+        "name": "P.F. Chang's",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 30.2637742,
+        "longitude": -97.7413891,
+        "website": null
+    },
+    {
+        "name": "Ranch 616",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.270375,
+        "longitude": -97.7484962,
+        "website": null
+    },
+    {
+        "name": "Walton's Fancy & Staple",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2695437,
+        "longitude": -97.7490258,
+        "website": "https://www.waltonsfancyandstaple.com"
+    },
+    {
+        "name": "Parlor and Yard",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2695137,
+        "longitude": -97.7487335,
+        "website": null
+    },
+    {
+        "name": "Hoffbrau Steaks",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2696712,
+        "longitude": -97.7491814,
+        "website": null
+    },
+    {
+        "name": "Aussie's Grill and Beach Bar",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2590844,
+        "longitude": -97.7482983,
+        "website": null
+    },
+    {
+        "name": "Bob's Steak & Chop House",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2660928,
+        "longitude": -97.7459213,
+        "website": null
+    },
+    {
+        "name": "Sammie's",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 30.270241,
+        "longitude": -97.7511612,
+        "website": "https://sammiesitalian.com/"
+    },
+    {
+        "name": "Shoal Creek Saloon",
+        "type": "restaurant",
+        "cuisine": "cajun",
+        "latitude": 30.2742709,
+        "longitude": -97.7523117,
+        "website": null
+    },
+    {
+        "name": "Crazy Conchas",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2596197,
+        "longitude": -97.7381187,
+        "website": null
+    },
+    {
+        "name": "IHOP",
+        "type": "restaurant",
+        "cuisine": "breakfast;pancake",
+        "latitude": 30.2609503,
+        "longitude": -97.7373817,
+        "website": "https://www.ihop.com/en/"
+    },
+    {
+        "name": "Koriente Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.267011,
+        "longitude": -97.7359945,
+        "website": "http://www.koriente.com/"
+    },
+    {
+        "name": "Péché",
+        "type": "restaurant",
+        "cuisine": "french",
+        "latitude": 30.2669638,
+        "longitude": -97.7451698,
+        "website": "https://www.pecheaustin.com/"
+    },
+    {
+        "name": "Halcyon",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2669808,
+        "longitude": -97.745661,
+        "website": "https://www.halcyoncoffeebar.com/"
+    },
+    {
+        "name": "The Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 30.2669886,
+        "longitude": -97.7454396,
+        "website": null
+    },
+    {
+        "name": "Stubb's BBQ",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.2684889,
+        "longitude": -97.7362194,
+        "website": null
+    },
+    {
+        "name": "Taquero Mucho",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2700965,
+        "longitude": -97.751134,
+        "website": null
+    },
+    {
+        "name": "Iron Works Barbecue",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.262248,
+        "longitude": -97.7390071,
+        "website": "https://ironworksbbq.com/"
+    },
+    {
+        "name": "Stubs BBQ",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.268681,
+        "longitude": -97.736194,
+        "website": null
+    },
+    {
+        "name": "Favorite Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 30.2701545,
+        "longitude": -97.750818,
+        "website": "https://favoritepizzaaustin.com/"
+    },
+    {
+        "name": "Pelons Tex Mex",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 30.2687925,
+        "longitude": -97.736558,
+        "website": null
+    },
+    {
+        "name": "Buenos Aires Café",
+        "type": "restaurant",
+        "cuisine": "argentinian",
+        "latitude": 30.2642222,
+        "longitude": -97.7304279,
+        "website": "https://www.buenosairescafe.com/"
+    },
+    {
+        "name": "Franklin Barbecue",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.2701634,
+        "longitude": -97.7312704,
+        "website": "http://franklinbarbecue.com/"
+    },
+    {
+        "name": "40 North",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 30.274996,
+        "longitude": -97.751699,
+        "website": null
+    },
+    {
+        "name": "Garbo's",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 30.2725705,
+        "longitude": -97.753698,
+        "website": null
+    },
+    {
+        "name": "Rosen's Bagels",
+        "type": "cafe",
+        "cuisine": "american",
+        "latitude": 30.2681415,
+        "longitude": -97.7475184,
+        "website": "https://www.rosensbagels.com/"
+    },
+    {
+        "name": "Cedar Door",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2640735,
+        "longitude": -97.7425301,
+        "website": "https://www.cedardooraustin.com/"
+    },
+    {
+        "name": "Hoboken Pie",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 30.2682132,
+        "longitude": -97.7367892,
+        "website": null
+    },
+    {
+        "name": "DeSano Pizzeria Napoletana",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 30.2662524,
+        "longitude": -97.7458585,
+        "website": null
+    },
+    {
+        "name": "Red Ash",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 30.265686,
+        "longitude": -97.7446787,
+        "website": "https://www.redashgrill.com/"
+    },
+    {
+        "name": "Punch Bowl Social",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 30.2677731,
+        "longitude": -97.743381,
+        "website": null
+    },
+    {
+        "name": "Cuatro Gato",
+        "type": "cafe",
+        "cuisine": "venezuelan",
+        "latitude": 30.266222,
+        "longitude": -97.7451707,
+        "website": null
+    },
+    {
+        "name": "Wax Myrtle's Club & Pool",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2667972,
+        "longitude": -97.7411988,
+        "website": "https://www.waxmyrtles.com/"
+    },
+    {
+        "name": "Gina's on Congress",
+        "type": "restaurant",
+        "cuisine": "french;italian",
+        "latitude": 30.265904,
+        "longitude": -97.743947,
+        "website": "https://www.ginasoncongress.com/"
+    },
+    {
+        "name": "La Piscina Ceviches & Fajitas",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2662912,
+        "longitude": -97.7502694,
+        "website": "https://www.properhotel.com/austin/restaurants-bars/la-piscina/"
+    },
+    {
+        "name": "Austin's Habibi",
+        "type": "restaurant",
+        "cuisine": "kebab",
+        "latitude": 30.2694961,
+        "longitude": -97.7529258,
+        "website": null
+    },
+    {
+        "name": "Super Burrito",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 30.2694978,
+        "longitude": -97.7527061,
+        "website": "https://ilovesuperburrito.com/superburritoon5th"
+    },
+    {
+        "name": "Foxy's Proper Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 30.2642599,
+        "longitude": -97.7424688,
+        "website": "https://foxysproperpub.com/"
+    },
+    {
+        "name": "Irene's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2698156,
+        "longitude": -97.7511628,
+        "website": null
+    },
+    {
+        "name": "The Hideout Coffee House",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 30.2685549,
+        "longitude": -97.7421672,
+        "website": null
+    },
+    {
+        "name": "Cooper's Old Time Pit Bar-B-Que",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.264936,
+        "longitude": -97.7436292,
+        "website": "https://coopersbbqaustin.com/"
+    },
+    {
+        "name": "The Stay Put",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 30.2582755,
+        "longitude": -97.7386802,
+        "website": null
+    },
+    {
+        "name": "Via 313",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 30.2701076,
+        "longitude": -97.7484585,
+        "website": "https://locations.via313.com/locations/600-w-6th-street/"
+    },
+    {
+        "name": "J Carver’s Oyster Bar & Chophouse",
+        "type": "restaurant",
+        "cuisine": "seafood;steak_house",
+        "latitude": 30.2695206,
+        "longitude": -97.7494409,
+        "website": "https://www.jcarveratx.com/"
+    },
+    {
+        "name": "Turf n'Surf Po'Boy",
+        "type": "restaurant",
+        "cuisine": "seafood;cajun",
+        "latitude": 30.2672083,
+        "longitude": -97.7455821,
+        "website": "https://www.turfnsurfpoboy.com/"
+    },
+    {
+        "name": "Modern Market Eatery",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 30.2666157,
+        "longitude": -97.7430926,
+        "website": null
+    },
+    {
+        "name": "The Smokehouse at Banger's",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 30.2590114,
+        "longitude": -97.7382115,
+        "website": null
+    }
+]
