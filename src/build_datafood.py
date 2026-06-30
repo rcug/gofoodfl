@@ -5,11 +5,12 @@ def run_scheduled_ingestion():
     print(f"Pipeline Started: {datetime.now()}")
     
     # Target Region 1: Tampa Area
+    RADIUS = 42000
     maineats.download_region_data(
         lat=28.0500, 
         lon=-82.4000, 
-        radius=35000, 
-        output_path="../data/gofoodfl.json"
+        radius=RADIUS, 
+        output_path="../data/gofoodflx.json"
     )
     
     # Target Region 2: Austin, Texas 

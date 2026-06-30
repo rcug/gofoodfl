@@ -2,7 +2,7 @@ import os
 import json
 import requests
 
-def get_local_eats_radius(lat, lon, radius_meters=35000):
+def get_local_eats_radius(lat, lon, radius_meters):
     overpass_url = "https://overpass-api.de/api/interpreter"
     contact_info = os.getenv("APP_CONTACT_EMAIL", "anonymous357@example.com")
     user_agent = f"FriendsEatApp/1.0 (contact: {contact_info})"
@@ -28,11 +28,12 @@ def parse_osm_data(raw_data):
     cleaned_places = []
     for element in raw_data.get("elements", []):
         tags = element.get("tags", {})
-        if "name" not in tags:
+        name = tags.get("name", "").strip()
+        if not name:
             continue
             
         cleaned_places.append({
-            "name": tags.get("name"),
+            "name": name,
             "type": tags.get("amenity"),
             "cuisine": tags.get("cuisine", "Not Specified"),
             "latitude": element.get("lat") or element.get("center", {}).get("lat"),
@@ -44,7 +45,7 @@ def parse_osm_data(raw_data):
 def download_region_data(lat, lon, radius, output_path):
     """Fetches, parses, and saves OSM data for any given coordinate set."""
     try:
-        print(f"Fetching data for location ({lat}, {lon})...")
+        print(f"Fetching data for location ({lat}, {lon}) with radius {radius}m...")
         raw_osm = get_local_eats_radius(lat, lon, radius)
         restaurants = parse_osm_data(raw_osm)
         
