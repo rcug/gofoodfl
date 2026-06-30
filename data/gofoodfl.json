@@ -56,6 +56,22 @@
         "website": null
     },
     {
+        "name": "Flanagan's Irish Pub",
+        "type": "pub",
+        "cuisine": "fried_food",
+        "latitude": 28.0120016,
+        "longitude": -82.7864554,
+        "website": "https://www.orderflanagans.com"
+    },
+    {
+        "name": "Cafe Alfresco",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.0120547,
+        "longitude": -82.7889196,
+        "website": "https://cafealfresco.com/"
+    },
+    {
         "name": "Margarita's Mexican Restaurant",
         "type": "restaurant",
         "cuisine": "mexican",
@@ -216,6 +232,14 @@
         "website": null
     },
     {
+        "name": "Harvey's 4th Street Grill",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.800492,
+        "longitude": -82.637711,
+        "website": null
+    },
+    {
         "name": "Glory Days",
         "type": "pub",
         "cuisine": "Not Specified",
@@ -288,12 +312,60 @@
         "website": null
     },
     {
+        "name": "Tour de Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.8057301,
+        "longitude": -82.6353331,
+        "website": "https://www.tourdepizza.com/"
+    },
+    {
+        "name": "Casa Tina",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 28.0116332,
+        "longitude": -82.7882168,
+        "website": null
+    },
+    {
+        "name": "Outback Steakhouse",
+        "type": "restaurant",
+        "cuisine": "american;steak",
+        "latitude": 27.7897595,
+        "longitude": -82.6390159,
+        "website": "https://www.outback.com/restaurant/locations/FL/St-Petersburg/St-Pete-4th-St/index.aspx"
+    },
+    {
+        "name": "Renzo's",
+        "type": "restaurant",
+        "cuisine": "peruvian",
+        "latitude": 27.77015,
+        "longitude": -82.63535,
+        "website": null
+    },
+    {
         "name": "Pipo's Cuban Cafe",
         "type": "cafe",
         "cuisine": "cuban",
         "latitude": 27.8631434,
         "longitude": -82.6384073,
         "website": null
+    },
+    {
+        "name": "Hooter's of Port Richey",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2730828,
+        "longitude": -82.7262102,
+        "website": null
+    },
+    {
+        "name": "The Moon Under Water",
+        "type": "restaurant",
+        "cuisine": "indian",
+        "latitude": 27.775843,
+        "longitude": -82.632037,
+        "website": "https://www.themoonunderwater.com/"
     },
     {
         "name": "Bonefish Grill",
@@ -744,6 +816,62 @@
         "website": null
     },
     {
+        "name": "Ceviche",
+        "type": "restaurant",
+        "cuisine": "spanish",
+        "latitude": 27.77142,
+        "longitude": -82.633518,
+        "website": "https://ceviche.com/"
+    },
+    {
+        "name": "Nature's Table",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7690413,
+        "longitude": -82.6342208,
+        "website": null
+    },
+    {
+        "name": "400 Beach Seafood",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.777371,
+        "longitude": -82.631548,
+        "website": "https://www.400beachseafood.com/"
+    },
+    {
+        "name": "Joey Brooklyn's Famous Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.771919,
+        "longitude": -82.635917,
+        "website": null
+    },
+    {
+        "name": "The Kitchen",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7719138,
+        "longitude": -82.636221,
+        "website": null
+    },
+    {
+        "name": "Sushi Inc.",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.7719076,
+        "longitude": -82.63684,
+        "website": null
+    },
+    {
+        "name": "Burrito Boarder",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.7717164,
+        "longitude": -82.6369125,
+        "website": null
+    },
+    {
         "name": "China Buffet",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -1043,9 +1171,57 @@
         "name": "Starbucks",
         "type": "cafe",
         "cuisine": "coffee_shop",
+        "latitude": 28.0017887,
+        "longitude": -81.9756988,
+        "website": "https://www.starbucks.com/store-locator/store/1029967/harden-and-polk-1310-lakeside-village-circle-suite-101-lakeland-fl"
+    },
+    {
+        "name": "Louis Pappa's",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.0027733,
+        "longitude": -81.9758231,
+        "website": null
+    },
+    {
+        "name": "KPot Korean barbecue and hot pot",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0000238,
+        "longitude": -81.9809407,
+        "website": null
+    },
+    {
+        "name": "Grillsmith Lakeland",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0004541,
+        "longitude": -81.9809244,
+        "website": "https://www.grillsmith.com"
+    },
+    {
+        "name": "Mimi's Cafe",
+        "type": "restaurant",
+        "cuisine": "french",
+        "latitude": 27.9979136,
+        "longitude": -81.9761322,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
         "latitude": 27.9966233,
         "longitude": -82.4549431,
         "website": "https://www.starbucks.com/store-locator/store/7996/i-275-hillsborough-502-e-hillsborough-avenue-tampa-fl-336047042-us"
+    },
+    {
+        "name": "Willard's Tap House",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.8861059,
+        "longitude": -82.7626782,
+        "website": null
     },
     {
         "name": "Chanko",
@@ -1054,6 +1230,14 @@
         "latitude": 27.9872121,
         "longitude": -82.4592302,
         "website": "https://www.chanko-ichiban.com/"
+    },
+    {
+        "name": "The Ale and the Witch",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.773918,
+        "longitude": -82.633613,
+        "website": null
     },
     {
         "name": "Tampa Pizza Company",
@@ -1296,6 +1480,14 @@
         "website": null
     },
     {
+        "name": "Wildflower Cafe",
+        "type": "cafe",
+        "cuisine": "american",
+        "latitude": 27.9439541,
+        "longitude": -82.7993941,
+        "website": "https://wildflowercafe.net/"
+    },
+    {
         "name": "Bay Pizzaria",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -1384,6 +1576,30 @@
         "website": "https://www.starbucks.com/store-locator/store/10068/4th-st-50th-ave-4946-4th-st-n-space-400-st-petersburg-fl-337033835"
     },
     {
+        "name": "The Living Room",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0120863,
+        "longitude": -82.7860104,
+        "website": "https://www.thelivingroomonmain.com/"
+    },
+    {
+        "name": "The Burg Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 27.770885,
+        "longitude": -82.657421,
+        "website": "https://theburgbar.com"
+    },
+    {
+        "name": "Cheddar's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.915664,
+        "longitude": -82.727484,
+        "website": null
+    },
+    {
         "name": "Little Greek",
         "type": "restaurant",
         "cuisine": "mediterranean",
@@ -1400,6 +1616,94 @@
         "website": null
     },
     {
+        "name": "Tijuana Flats",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.8432666,
+        "longitude": -82.6873748,
+        "website": null
+    },
+    {
+        "name": "Athenian Garden",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.792517,
+        "longitude": -82.638882,
+        "website": "https://atheniangardens.com/locations/4th-street/"
+    },
+    {
+        "name": "Carrabba's Italian Grill",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.790228,
+        "longitude": -82.638264,
+        "website": null
+    },
+    {
+        "name": "Kahwa South",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.76928,
+        "longitude": -82.63586,
+        "website": null
+    },
+    {
+        "name": "Ichicoro Ane",
+        "type": "restaurant",
+        "cuisine": "ramen;japanese",
+        "latitude": 27.7700989,
+        "longitude": -82.6364093,
+        "website": null
+    },
+    {
+        "name": "Grazzi",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.769096,
+        "longitude": -82.635761,
+        "website": null
+    },
+    {
+        "name": "Mio's Grill and Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7724173,
+        "longitude": -82.6353379,
+        "website": null
+    },
+    {
+        "name": "Ford's Garage",
+        "type": "restaurant",
+        "cuisine": "american;burger",
+        "latitude": 27.770107,
+        "longitude": -82.635745,
+        "website": null
+    },
+    {
+        "name": "First Street Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.767488,
+        "longitude": -82.634205,
+        "website": null
+    },
+    {
+        "name": "The Avenue",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 27.770096,
+        "longitude": -82.63754,
+        "website": "https://www.theavenuedtsp.com/"
+    },
+    {
+        "name": "Patanegra",
+        "type": "restaurant",
+        "cuisine": "tapas",
+        "latitude": 27.7709737,
+        "longitude": -82.635792,
+        "website": null
+    },
+    {
         "name": "Starbucks",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -1408,11 +1712,75 @@
         "website": null
     },
     {
+        "name": "McCabe's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.960046,
+        "longitude": -82.74439,
+        "website": null
+    },
+    {
+        "name": "Mirage",
+        "type": "restaurant",
+        "cuisine": "persian",
+        "latitude": 27.960849,
+        "longitude": -82.74277,
+        "website": "https://www.miragerestaurant.com/"
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.838079,
+        "longitude": -82.683537,
+        "website": "https://www.starbucks.com/store-locator/store/14532/park-blvd-us-hwy-19-7350-us-hwy-19-north-pinellas-park-fl-337814600-us"
+    },
+    {
+        "name": "Dunedin Smokehouse",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 28.0118982,
+        "longitude": -82.7863202,
+        "website": null
+    },
+    {
+        "name": "Rosie's Tavern",
+        "type": "pub",
+        "cuisine": "american",
+        "latitude": 28.01172,
+        "longitude": -82.789937,
+        "website": null
+    },
+    {
+        "name": "Pan y Vino",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.0116421,
+        "longitude": -82.7881528,
+        "website": null
+    },
+    {
         "name": "Jason's Deli",
         "type": "restaurant",
         "cuisine": "sandwich",
         "latitude": 28.0064629,
         "longitude": -82.7286305,
+        "website": null
+    },
+    {
+        "name": "Sushi Spot",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.91517,
+        "longitude": -82.749593,
+        "website": "https://www.sushispotlargo.com/"
+    },
+    {
+        "name": "Fred Fleming's BBQ",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 27.812328,
+        "longitude": -82.638883,
         "website": null
     },
     {
@@ -1512,6 +1880,22 @@
         "website": null
     },
     {
+        "name": "Outback Steakhouse",
+        "type": "restaurant",
+        "cuisine": "american;steak",
+        "latitude": 27.9169492,
+        "longitude": -82.7496392,
+        "website": null
+    },
+    {
+        "name": "Westshore Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.917499,
+        "longitude": -82.7483023,
+        "website": null
+    },
+    {
         "name": "Cry Baby Cafe",
         "type": "cafe",
         "cuisine": "breakfast;lunch;pastry",
@@ -1544,6 +1928,38 @@
         "website": null
     },
     {
+        "name": "Sam's Sushi",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.8366489,
+        "longitude": -82.6862211,
+        "website": "https://sites.google.com/view/sams-sushi/home"
+    },
+    {
+        "name": "Thuy Cafe",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.8262032,
+        "longitude": -82.6804867,
+        "website": null
+    },
+    {
+        "name": "Cafe 54",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.8266215,
+        "longitude": -82.6801132,
+        "website": null
+    },
+    {
+        "name": "Mekong Vietnamese Restaurant",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.82649,
+        "longitude": -82.6800019,
+        "website": null
+    },
+    {
         "name": "Gigi's Italian Restaurant",
         "type": "restaurant",
         "cuisine": "italian",
@@ -1568,12 +1984,28 @@
         "website": "https://watervuegrille.com/"
     },
     {
+        "name": "Country Boy Family Restaurant",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.0189396,
+        "longitude": -82.7691758,
+        "website": null
+    },
+    {
         "name": "Shula's Steak House",
         "type": "restaurant",
         "cuisine": "steak_house",
         "latitude": 27.9439869,
         "longitude": -82.5252651,
         "website": null
+    },
+    {
+        "name": "Little Greek",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.783135,
+        "longitude": -82.638772,
+        "website": "https://mylittlegreek.com/"
     },
     {
         "name": "Skyway Jacks",
@@ -1621,6 +2053,14 @@
         "cuisine": "thai",
         "latitude": 27.8744458,
         "longitude": -82.6401708,
+        "website": null
+    },
+    {
+        "name": "Nitally's",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 27.7708133,
+        "longitude": -82.666993,
         "website": null
     },
     {
@@ -1704,6 +2144,14 @@
         "website": null
     },
     {
+        "name": "Bascetti's",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 28.0198913,
+        "longitude": -82.7615709,
+        "website": null
+    },
+    {
         "name": "TRANG VIET Cuisine",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -1752,6 +2200,30 @@
         "website": null
     },
     {
+        "name": "Jet's Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.0197652,
+        "longitude": -82.7697378,
+        "website": null
+    },
+    {
+        "name": "Spoto's",
+        "type": "restaurant",
+        "cuisine": "steak_house",
+        "latitude": 28.019692,
+        "longitude": -82.772437,
+        "website": null
+    },
+    {
+        "name": "Thai Town",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 28.0197581,
+        "longitude": -82.7700695,
+        "website": null
+    },
+    {
         "name": "Subs & Deli",
         "type": "restaurant",
         "cuisine": "sandwich",
@@ -1760,11 +2232,27 @@
         "website": null
     },
     {
+        "name": "Seasons Cafe & Bakery",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.838234,
+        "longitude": -82.682517,
+        "website": "https://www.seasonscafebakery.com/"
+    },
+    {
         "name": "Hooters",
         "type": "restaurant",
         "cuisine": "burger",
         "latitude": 27.9965477,
         "longitude": -82.5145349,
+        "website": null
+    },
+    {
+        "name": "The Crooked Cue",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.8999825,
+        "longitude": -82.7276353,
         "website": null
     },
     {
@@ -1792,11 +2280,43 @@
         "website": "https://www.starbucks.com/store-locator/store/6692/4th-st-89th-ave-8801-4th-st-n-st-petersburg-fl-337023123-us"
     },
     {
+        "name": "The Witches BBQ Den",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 27.77383,
+        "longitude": -82.633408,
+        "website": null
+    },
+    {
+        "name": "The Tavern at Bayboro",
+        "type": "pub",
+        "cuisine": "american",
+        "latitude": 27.7634415,
+        "longitude": -82.6344608,
+        "website": "www.tavernatbayboro.com"
+    },
+    {
+        "name": "The Campus Grind",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7633277,
+        "longitude": -82.6344608,
+        "website": "https://thecampusgrind.com/"
+    },
+    {
         "name": "The Blind Tiger Café Westchase",
         "type": "cafe",
         "cuisine": "coffee_shop",
         "latitude": 28.0440713,
         "longitude": -82.597204,
+        "website": null
+    },
+    {
+        "name": "Nature's Table",
+        "type": "restaurant",
+        "cuisine": "mediterranean",
+        "latitude": 27.7726383,
+        "longitude": -82.6368753,
         "website": null
     },
     {
@@ -1808,12 +2328,44 @@
         "website": "https://www.bjsrestaurants.com/locations/fl/clearwater"
     },
     {
+        "name": "Engine No 9",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 27.7718257,
+        "longitude": -82.6468726,
+        "website": "https://www.no9burgers.com/"
+    },
+    {
+        "name": "Olde Bay Cafe",
+        "type": "cafe",
+        "cuisine": "seafood",
+        "latitude": 28.012375,
+        "longitude": -82.792307,
+        "website": null
+    },
+    {
         "name": "Greek City",
         "type": "restaurant",
         "cuisine": "greek",
         "latitude": 28.0199256,
         "longitude": -82.7328383,
         "website": null
+    },
+    {
+        "name": "Cafe 1001 and Creative Catering Company",
+        "type": "cafe",
+        "cuisine": "american",
+        "latitude": 27.772211,
+        "longitude": -82.648283,
+        "website": "http://www.creativecateringcompany.com/?page_id=8"
+    },
+    {
+        "name": "Ciccio's California",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.807101,
+        "longitude": -82.635292,
+        "website": "www.stpete.cicciostampabay.com/"
     },
     {
         "name": "Bonefish Grill",
@@ -1830,6 +2382,38 @@
         "latitude": 27.995568,
         "longitude": -82.509698,
         "website": "https://restaurants.applebees.com/en-us/fl/tampa/4006-w-hillsborough-ave.-98059"
+    },
+    {
+        "name": "Bella Brava",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.7737,
+        "longitude": -82.632919,
+        "website": "https://bellabrava.com/"
+    },
+    {
+        "name": "Cassis American Brasserie",
+        "type": "restaurant",
+        "cuisine": "french",
+        "latitude": 27.773313,
+        "longitude": -82.633105,
+        "website": "http://cassisab.com/"
+    },
+    {
+        "name": "Banyan Cafe",
+        "type": "cafe",
+        "cuisine": "coffee;breakfast;sandwich",
+        "latitude": 27.771382,
+        "longitude": -82.644085,
+        "website": null
+    },
+    {
+        "name": "9 Bangkok Thai Restaurant",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 27.7713577,
+        "longitude": -82.6414109,
+        "website": "https://9bangkok.menufy.com/"
     },
     {
         "name": "Paisano's Pizza & Pasta",
@@ -1872,12 +2456,28 @@
         "website": "https://www.starbucks.com/store-locator/store/15418/curlew-rd-tampa-rd-3180-tampa-road-oldsmar-fl-346772297-us"
     },
     {
+        "name": "MacDinton's Irish Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.771899,
+        "longitude": -82.6363814,
+        "website": null
+    },
+    {
         "name": "Yeoman's Cask & Lion",
         "type": "restaurant",
         "cuisine": "regional",
         "latitude": 27.947265,
         "longitude": -82.4550292,
         "website": "https://www.yeomanscaskandlion.com/"
+    },
+    {
+        "name": "Rumba",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.961366,
+        "longitude": -82.762354,
+        "website": null
     },
     {
         "name": "International Cafe",
@@ -1888,6 +2488,54 @@
         "website": "http://icafeonline.net/"
     },
     {
+        "name": "WingHouse",
+        "type": "restaurant",
+        "cuisine": "chicken",
+        "latitude": 27.894548,
+        "longitude": -82.73997,
+        "website": "https://winghouse.com/locations/largo/"
+    },
+    {
+        "name": "Carmelita's",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.8948692,
+        "longitude": -82.7442703,
+        "website": "https://www.carmelitas.net/location/largo/"
+    },
+    {
+        "name": "Finley's Irish Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.895813,
+        "longitude": -82.745122,
+        "website": null
+    },
+    {
+        "name": "Shark's Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.902612,
+        "longitude": -82.744581,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.772293,
+        "longitude": -82.63531,
+        "website": "https://www.starbucks.com/store-locator/store/8941/baywalk-199-1st-ave-north-st-petersburg-fl-337013301-us"
+    },
+    {
+        "name": "Kahwa Coffee North",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7774162,
+        "longitude": -82.6353661,
+        "website": null
+    },
+    {
         "name": "Southern Fresh",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -1896,11 +2544,27 @@
         "website": null
     },
     {
+        "name": "Carmelita's Mexican Restaurant",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.828682,
+        "longitude": -82.729004,
+        "website": null
+    },
+    {
         "name": "Mr. Empanada",
         "type": "restaurant",
         "cuisine": "latin_american",
         "latitude": 27.817351,
         "longitude": -82.63891,
+        "website": null
+    },
+    {
+        "name": "Southern Style Buffet",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.881014,
+        "longitude": -82.72836,
         "website": null
     },
     {
@@ -1933,6 +2597,46 @@
         "cuisine": "american",
         "latitude": 27.9451616,
         "longitude": -82.5074214,
+        "website": null
+    },
+    {
+        "name": "Right Around the Corner",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.770854,
+        "longitude": -82.663946,
+        "website": "https://stpetearcadebar.square.site"
+    },
+    {
+        "name": "ABC Chinese Seafood",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.821564,
+        "longitude": -82.670271,
+        "website": null
+    },
+    {
+        "name": "Rollbotto Sushi",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.774164,
+        "longitude": -82.633816,
+        "website": null
+    },
+    {
+        "name": "Red Mesa Cantina",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.7696597,
+        "longitude": -82.6368612,
+        "website": null
+    },
+    {
+        "name": "Nash's Hot Chicken",
+        "type": "restaurant",
+        "cuisine": "chicken",
+        "latitude": 27.77132,
+        "longitude": -82.646986,
         "website": null
     },
     {
@@ -1976,6 +2680,38 @@
         "website": "https://www.acropolistaverna.com/"
     },
     {
+        "name": "The Burg Diner",
+        "type": "restaurant",
+        "cuisine": "cuban",
+        "latitude": 27.798953,
+        "longitude": -82.700418,
+        "website": "https://theburgdiner.com/"
+    },
+    {
+        "name": "The Tap Room",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7765758,
+        "longitude": -82.638798,
+        "website": null
+    },
+    {
+        "name": "The Neon Lunchbox",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7708983,
+        "longitude": -82.6575731,
+        "website": "https://www.theneonlunchboxstpete.com/"
+    },
+    {
+        "name": "Joto's Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.855503,
+        "longitude": -82.736407,
+        "website": null
+    },
+    {
         "name": "Taco Bus",
         "type": "restaurant",
         "cuisine": "mexican",
@@ -1984,12 +2720,84 @@
         "website": null
     },
     {
+        "name": "Zeko's Pizzeria",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.960184,
+        "longitude": -82.754109,
+        "website": null
+    },
+    {
+        "name": "Flippers Pizzeria",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.783239,
+        "longitude": -82.6387699,
+        "website": "https://flipperspizzeria.com/"
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.781352,
+        "longitude": -82.63874,
+        "website": "https://www.starbucks.com/store-locator/store/9265/4th-st-9th-ave-900-4th-street-north-a-st-petersburg-fl-337011722-"
+    },
+    {
         "name": "Big Apple Buffet II",
         "type": "restaurant",
         "cuisine": "chinese;buffet",
         "latitude": 27.829674,
         "longitude": -82.648274,
         "website": null
+    },
+    {
+        "name": "Sab Cafe",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.77376,
+        "longitude": -82.633667,
+        "website": "Sabcafe.com"
+    },
+    {
+        "name": "Fitlife Foods",
+        "type": "restaurant",
+        "cuisine": "healthy;fitmeals;mexican;regional;korean;italian;breakfast;brunch;asian;barbecue",
+        "latitude": 27.799823,
+        "longitude": -82.638241,
+        "website": "https://eatfitlifefoods.com/"
+    },
+    {
+        "name": "California Tacos",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.782391,
+        "longitude": -82.638239,
+        "website": null
+    },
+    {
+        "name": "Tijuana Flats",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.781676,
+        "longitude": -82.638719,
+        "website": null
+    },
+    {
+        "name": "Pacific Counter",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.7709983,
+        "longitude": -82.6428325,
+        "website": "https://pacificcounter.com/"
+    },
+    {
+        "name": "Hangar Restaurant and Flight Lounge",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7646902,
+        "longitude": -82.6333298,
+        "website": "https://www.thehangarstpete.com/"
     },
     {
         "name": "Sông Huong",
@@ -2040,7 +2848,23 @@
         "website": null
     },
     {
-        "name": "AQUA Bar & Grill ",
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.916093,
+        "longitude": -82.761815,
+        "website": "https://www.starbucks.com/store-locator/store/8905/starkey-rd-east-bay-dr-2401-east-bay-dr-1-largo-fl-337712473-us"
+    },
+    {
+        "name": "Trip's Diner",
+        "type": "restaurant",
+        "cuisine": "diner",
+        "latitude": 27.793731,
+        "longitude": -82.646503,
+        "website": "https://tripsdiner.com/"
+    },
+    {
+        "name": "AQUA Bar & Grill",
         "type": "restaurant",
         "cuisine": "american",
         "latitude": 27.968118,
@@ -2056,6 +2880,30 @@
         "website": "https://www.starbucks.com/store-locator/store/7764/westin-tampa-bay-7627-w-courtney-campbell-causeway-tampa-fl-3360714"
     },
     {
+        "name": "Chiang Mai",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 27.770948,
+        "longitude": -82.649977,
+        "website": null
+    },
+    {
+        "name": "Brooklyn South",
+        "type": "restaurant",
+        "cuisine": "sandwich",
+        "latitude": 27.7712825,
+        "longitude": -82.653952,
+        "website": null
+    },
+    {
+        "name": "Leafy Greens Cafe",
+        "type": "restaurant",
+        "cuisine": "salad",
+        "latitude": 27.7709383,
+        "longitude": -82.655505,
+        "website": "http://www.dev.leafygreenscafe.com/"
+    },
+    {
         "name": "Reilly's Reserve",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -2069,6 +2917,14 @@
         "cuisine": "Not Specified",
         "latitude": 28.015629,
         "longitude": -82.47017,
+        "website": null
+    },
+    {
+        "name": "Porter's Stone Soup Cafe",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.809726,
+        "longitude": -82.655337,
         "website": null
     },
     {
@@ -2144,11 +3000,59 @@
         "website": null
     },
     {
+        "name": "Huaroche Veloz",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.836733,
+        "longitude": -82.700505,
+        "website": null
+    },
+    {
+        "name": "Ichiban Japanese",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 27.7909249,
+        "longitude": -82.6553414,
+        "website": "https://www.ichibanstpete.com/"
+    },
+    {
         "name": "Ban Thai",
         "type": "restaurant",
         "cuisine": "thai",
         "latitude": 28.0124613,
         "longitude": -82.7074587,
+        "website": null
+    },
+    {
+        "name": "Thai Bay",
+        "type": "restaurant",
+        "cuisine": "sushi;thai",
+        "latitude": 27.916936,
+        "longitude": -82.77373,
+        "website": null
+    },
+    {
+        "name": "The Lemon Grass",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 27.77101,
+        "longitude": -82.637495,
+        "website": "https://www.lemongrasstapas.com/"
+    },
+    {
+        "name": "Poke Island",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.8364439,
+        "longitude": -82.7280752,
+        "website": null
+    },
+    {
+        "name": "Tryst",
+        "type": "pub",
+        "cuisine": "american",
+        "latitude": 27.774512,
+        "longitude": -82.632695,
         "website": null
     },
     {
@@ -2168,12 +3072,28 @@
         "website": null
     },
     {
+        "name": "Greek Island Restaurant",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.930889,
+        "longitude": -82.79591,
+        "website": null
+    },
+    {
         "name": "Fred's Market",
         "type": "restaurant",
         "cuisine": "regional",
         "latitude": 27.8863734,
         "longitude": -82.3307074,
         "website": "https://www.fredsmarket.com/"
+    },
+    {
+        "name": "Tony's Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.012165,
+        "longitude": -82.789344,
+        "website": null
     },
     {
         "name": "Starbucks",
@@ -2189,6 +3109,22 @@
         "cuisine": "american",
         "latitude": 28.102439,
         "longitude": -82.503052,
+        "website": null
+    },
+    {
+        "name": "Mayster's Cafe",
+        "type": "cafe",
+        "cuisine": "american",
+        "latitude": 27.770824,
+        "longitude": -82.666644,
+        "website": null
+    },
+    {
+        "name": "Rhythm & Blues Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.821516,
+        "longitude": -82.668546,
         "website": null
     },
     {
@@ -2256,6 +3192,14 @@
         "website": "https://www.nynypizzeria.com/Ybor_City.html"
     },
     {
+        "name": "Cafe Gala",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.766146,
+        "longitude": -82.63125,
+        "website": "https://www.thedali.org/"
+    },
+    {
         "name": "Boardwalk Pizza & Gyros",
         "type": "restaurant",
         "cuisine": "pizza",
@@ -2280,12 +3224,52 @@
         "website": "https://kotosteakhouse.com/home.html"
     },
     {
+        "name": "Cafe Ponte",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.894393,
+        "longitude": -82.713625,
+        "website": null
+    },
+    {
         "name": "Carmel Café and Wine Bar",
         "type": "restaurant",
         "cuisine": "mediterranean",
         "latitude": 28.013938,
         "longitude": -82.709903,
         "website": null
+    },
+    {
+        "name": "The Copper Mug",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.943509,
+        "longitude": -82.745414,
+        "website": null
+    },
+    {
+        "name": "Olga's Restaurant",
+        "type": "restaurant",
+        "cuisine": "breakfast;brunch",
+        "latitude": 27.9438072,
+        "longitude": -82.7453673,
+        "website": null
+    },
+    {
+        "name": "Kozy Korner",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.873249,
+        "longitude": -82.705254,
+        "website": null
+    },
+    {
+        "name": "La V Vietnamese Fusion",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.771371,
+        "longitude": -82.6393732,
+        "website": "https://lavfusion.com/"
     },
     {
         "name": "Grind House",
@@ -2320,6 +3304,14 @@
         "website": "https://restaurants.applebees.com/en-us/fl/tampa/10606-sheldon-road-94045"
     },
     {
+        "name": "Central Coffee Shoppe",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7709061,
+        "longitude": -82.6408528,
+        "website": null
+    },
+    {
         "name": "The Bricks Ybor",
         "type": "restaurant",
         "cuisine": "american",
@@ -2344,6 +3336,14 @@
         "website": null
     },
     {
+        "name": "Terra Mar Brazilian Steakhouse",
+        "type": "restaurant",
+        "cuisine": "brazilian",
+        "latitude": 27.833155,
+        "longitude": -82.6994756,
+        "website": null
+    },
+    {
         "name": "Starbucks",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -2352,11 +3352,43 @@
         "website": "https://www.starbucks.com/store-locator/store/1010284/east-lake-ridgemoor-4978-ridgemoor-blvd-palm-harbor-fl-346851744-us"
     },
     {
+        "name": "La Sandwicherie Saint Pete",
+        "type": "restaurant",
+        "cuisine": "french",
+        "latitude": 27.773752,
+        "longitude": -82.633819,
+        "website": "www.lasandwicheriestpete.com"
+    },
+    {
+        "name": "The Blend Coffee and Cocktails",
+        "type": "cafe",
+        "cuisine": "coffee_shop;cocktails",
+        "latitude": 27.916862,
+        "longitude": -82.754725,
+        "website": null
+    },
+    {
+        "name": "McAuley's Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.770863,
+        "longitude": -82.653933,
+        "website": "http://mcauleyspub.com/"
+    },
+    {
         "name": "Yard of ale",
         "type": "pub",
         "cuisine": "american",
         "latitude": 27.894436,
         "longitude": -82.669846,
+        "website": null
+    },
+    {
+        "name": "Anthony's Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.793252,
+        "longitude": -82.670984,
         "website": null
     },
     {
@@ -2397,6 +3429,14 @@
         "cuisine": "steak_house",
         "latitude": 27.9585599,
         "longitude": -82.5245416,
+        "website": null
+    },
+    {
+        "name": "City's Bistro",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.771363,
+        "longitude": -82.643714,
         "website": null
     },
     {
@@ -2518,6 +3558,46 @@
         "latitude": 27.8546913,
         "longitude": -82.3260331,
         "website": "https://www.kazborsgrille.com/"
+    },
+    {
+        "name": "China 99",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.943274,
+        "longitude": -82.74542,
+        "website": null
+    },
+    {
+        "name": "La Pollera Colorada",
+        "type": "restaurant",
+        "cuisine": "latin_american",
+        "latitude": 27.9523363,
+        "longitude": -82.7755569,
+        "website": "http://www.lapolleracoloradatampa.com"
+    },
+    {
+        "name": "Tory's Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9507206,
+        "longitude": -82.7755445,
+        "website": null
+    },
+    {
+        "name": "Sunset Grill at Little Harbor",
+        "type": "restaurant",
+        "cuisine": "caribbean",
+        "latitude": 27.7296498,
+        "longitude": -82.4759805,
+        "website": "https://www.sunsetgrillfl.com/"
+    },
+    {
+        "name": "Hooks Waterfront Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 27.7301224,
+        "longitude": -82.4744808,
+        "website": null
     },
     {
         "name": "Beef O'Brady's",
@@ -2736,6 +3816,22 @@
         "website": null
     },
     {
+        "name": "Original Pizza II",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.8395431,
+        "longitude": -82.7194963,
+        "website": "https://www.originalpizzaii.com/"
+    },
+    {
+        "name": "Taste of Saigon",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.8394497,
+        "longitude": -82.7267809,
+        "website": null
+    },
+    {
         "name": "Oxford Exchange",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -2766,6 +3862,62 @@
         "latitude": 27.9284095,
         "longitude": -82.4833436,
         "website": "https://www.bellasitaliancafe.com/"
+    },
+    {
+        "name": "Special Pho",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.7853301,
+        "longitude": -82.6801082,
+        "website": null
+    },
+    {
+        "name": "El Huarache Veloz",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.8366231,
+        "longitude": -82.7002971,
+        "website": null
+    },
+    {
+        "name": "Buffalo Wild Wings",
+        "type": "restaurant",
+        "cuisine": "wings",
+        "latitude": 27.8397633,
+        "longitude": -82.6893535,
+        "website": null
+    },
+    {
+        "name": "Godfather's Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.8397719,
+        "longitude": -82.6914854,
+        "website": null
+    },
+    {
+        "name": "Pho Quyen Vietnamese",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.839877,
+        "longitude": -82.694934,
+        "website": null
+    },
+    {
+        "name": "Victor's Kitchen",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.8395218,
+        "longitude": -82.7098798,
+        "website": null
+    },
+    {
+        "name": "Phở Hà Tiên",
+        "type": "restaurant",
+        "cuisine": "pho;vietnamese;asian",
+        "latitude": 27.8395411,
+        "longitude": -82.7193082,
+        "website": "https://phohatienfl.com/"
     },
     {
         "name": "West Shore Pizza",
@@ -2880,6 +4032,38 @@
         "website": null
     },
     {
+        "name": "Monty's Pizzeria",
+        "type": "restaurant",
+        "cuisine": "pizza;italian",
+        "latitude": 27.942501,
+        "longitude": -82.747177,
+        "website": "https://www.montyspizzeria.com/"
+    },
+    {
+        "name": "Mykonos",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.155445,
+        "longitude": -82.759913,
+        "website": null
+    },
+    {
+        "name": "La Carreta Bakery",
+        "type": "restaurant",
+        "cuisine": "latin_american",
+        "latitude": 27.821556,
+        "longitude": -82.670566,
+        "website": null
+    },
+    {
+        "name": "Poppo's Taquiera",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 27.7713417,
+        "longitude": -82.6490488,
+        "website": "https://www.poppostaqueria.com/"
+    },
+    {
         "name": "Tijuana Flats",
         "type": "restaurant",
         "cuisine": "mexican",
@@ -2894,6 +4078,22 @@
         "latitude": 27.9466958,
         "longitude": -82.5267556,
         "website": "https://www.starbucks.com/store-locator/store/18607/westshore-kennedy-118-south-westshore-blvd-tampa-fl-33609-us"
+    },
+    {
+        "name": "Old Northeast Tavern",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.7795714,
+        "longitude": -82.6357384,
+        "website": null
+    },
+    {
+        "name": "Old Northeast Pizza",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7797051,
+        "longitude": -82.6357348,
+        "website": null
     },
     {
         "name": "Skyline Chili",
@@ -2920,6 +4120,30 @@
         "website": "http://www.maloneyslocaldowntown.com/#!about-maloneys-local/c1c0y"
     },
     {
+        "name": "Common Grounds",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7765517,
+        "longitude": -82.6387069,
+        "website": null
+    },
+    {
+        "name": "Parkshore Grill",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7751972,
+        "longitude": -82.6324662,
+        "website": "https://www.parkshoregrill.com/"
+    },
+    {
+        "name": "Lonni's Sandwiches",
+        "type": "restaurant",
+        "cuisine": "sandwich",
+        "latitude": 27.771378,
+        "longitude": -82.6390956,
+        "website": null
+    },
+    {
         "name": "Fresh Kitchen",
         "type": "restaurant",
         "cuisine": "international",
@@ -2941,6 +4165,14 @@
         "cuisine": "Not Specified",
         "latitude": 27.8933999,
         "longitude": -82.4995491,
+        "website": null
+    },
+    {
+        "name": "Mr. Sushi",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 27.7850739,
+        "longitude": -82.6801037,
         "website": null
     },
     {
@@ -3016,12 +4248,60 @@
         "website": null
     },
     {
+        "name": "Pipo's ToGo",
+        "type": "restaurant",
+        "cuisine": "cuban",
+        "latitude": 27.7714688,
+        "longitude": -82.6386784,
+        "website": null
+    },
+    {
+        "name": "The Cupcake Spot",
+        "type": "cafe",
+        "cuisine": "cupcake",
+        "latitude": 27.8210958,
+        "longitude": -82.7134919,
+        "website": "https://www.thecupcakespotinc.com/"
+    },
+    {
+        "name": "Doormet",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7713521,
+        "longitude": -82.6431393,
+        "website": "https://www.doormet.com/"
+    },
+    {
+        "name": "Angelo's Grill & Bar",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7718964,
+        "longitude": -82.6408961,
+        "website": "http://www.stpeteza.com/"
+    },
+    {
+        "name": "Tony's Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7713612,
+        "longitude": -82.6408746,
+        "website": null
+    },
+    {
         "name": "Laughing Cat Bistro",
         "type": "restaurant",
         "cuisine": "italian",
         "latitude": 27.9608858,
         "longitude": -82.4428079,
         "website": "https://thelaughingcat.com/"
+    },
+    {
+        "name": "Maple Street Biscuit Company",
+        "type": "restaurant",
+        "cuisine": "breakfast",
+        "latitude": 27.7709977,
+        "longitude": -82.6429421,
+        "website": null
     },
     {
         "name": "Carne Chop House",
@@ -3037,6 +4317,14 @@
         "cuisine": "chinese",
         "latitude": 28.0256939,
         "longitude": -82.2444437,
+        "website": null
+    },
+    {
+        "name": "Casita Taqueria",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.7970109,
+        "longitude": -82.638177,
         "website": null
     },
     {
@@ -3085,6 +4373,38 @@
         "cuisine": "mexican",
         "latitude": 27.8767142,
         "longitude": -82.2225209,
+        "website": null
+    },
+    {
+        "name": "The Mill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.770997,
+        "longitude": -82.636474,
+        "website": null
+    },
+    {
+        "name": "Ruth's Chris Steak House",
+        "type": "restaurant",
+        "cuisine": "american;steak_house",
+        "latitude": 27.7738716,
+        "longitude": -82.6343209,
+        "website": null
+    },
+    {
+        "name": "Maxiland Bakery",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7722017,
+        "longitude": -82.6499556,
+        "website": "http://www.maxilandbakery.com/"
+    },
+    {
+        "name": "Stillwaters Tavern",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.774162,
+        "longitude": -82.632808,
         "website": null
     },
     {
@@ -3248,6 +4568,30 @@
         "website": null
     },
     {
+        "name": "Acropol Family Restaurant",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.9058875,
+        "longitude": -82.7629946,
+        "website": "https://www.acropolfamilyrestaurant.com/"
+    },
+    {
+        "name": "Buya",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 27.7713203,
+        "longitude": -82.6471859,
+        "website": null
+    },
+    {
+        "name": "Bavaro's",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7713421,
+        "longitude": -82.6478812,
+        "website": null
+    },
+    {
         "name": "Catch 23",
         "type": "restaurant",
         "cuisine": "seafood",
@@ -3376,11 +4720,27 @@
         "website": "http://www.taqueriadonamaria.com/"
     },
     {
+        "name": "Emily's Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.838794,
+        "longitude": -82.735708,
+        "website": null
+    },
+    {
         "name": "Whistle Stop Grill & Bar",
         "type": "restaurant",
         "cuisine": "american",
         "latitude": 27.9910234,
         "longitude": -82.6968402,
+        "website": null
+    },
+    {
+        "name": "La Cabana Del Tio",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.9677964,
+        "longitude": -82.7666195,
         "website": null
     },
     {
@@ -3398,6 +4758,30 @@
         "latitude": 28.0085546,
         "longitude": -82.3017652,
         "website": "https://www.bobevans.com/"
+    },
+    {
+        "name": "Cristino's Coal Oven Pizza",
+        "type": "restaurant",
+        "cuisine": "italian_pizza",
+        "latitude": 27.954457,
+        "longitude": -82.7997715,
+        "website": "http://cristinospizzeria.com"
+    },
+    {
+        "name": "Tin Can Café",
+        "type": "cafe",
+        "cuisine": "breakfast",
+        "latitude": 27.9624652,
+        "longitude": -82.7957955,
+        "website": "http://tincancafefl.com"
+    },
+    {
+        "name": "Delco's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.017958,
+        "longitude": -82.757593,
+        "website": null
     },
     {
         "name": "Tijuana Flats",
@@ -3424,6 +4808,38 @@
         "website": "http://thesteinandvine.com/"
     },
     {
+        "name": "Nickel City Sushi Bar",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8388002,
+        "longitude": -82.7438359,
+        "website": null
+    },
+    {
+        "name": "Soul Sicilian Fusion",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.965761,
+        "longitude": -82.7993457,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.9654779,
+        "longitude": -82.8001524,
+        "website": "https://www.starbucks.com/store-locator/store/16864/433-cleveland-street-433-cleveland-street-clearwater-fl-337554004-us"
+    },
+    {
+        "name": "Downtown Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.9657566,
+        "longitude": -82.8002302,
+        "website": null
+    },
+    {
         "name": "Bar Fly",
         "type": "restaurant",
         "cuisine": "seafood",
@@ -3448,6 +4864,22 @@
         "website": null
     },
     {
+        "name": "Beef O' Brady's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.3309036,
+        "longitude": -82.5699239,
+        "website": null
+    },
+    {
+        "name": "Marco's Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.3307169,
+        "longitude": -82.5712509,
+        "website": null
+    },
+    {
         "name": "Grillsmith",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -3462,6 +4894,14 @@
         "latitude": 28.0500484,
         "longitude": -82.5032236,
         "website": "http://www.senortequilamexicanrestaurant.com/"
+    },
+    {
+        "name": "Hellas Restaurant and Bakery",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.155349,
+        "longitude": -82.7618831,
+        "website": null
     },
     {
         "name": "Piccola Italia Bistro",
@@ -3496,6 +4936,22 @@
         "website": "https://3coinsdiner.wixsite.com/3coinsdiner"
     },
     {
+        "name": "El Tenampa Mexican restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7894963,
+        "longitude": -82.655334,
+        "website": null
+    },
+    {
+        "name": "China House",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 28.0948706,
+        "longitude": -82.772069,
+        "website": null
+    },
+    {
         "name": "Anthony's Coal Fired Pizza",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -3512,6 +4968,30 @@
         "website": "https://www.oldetownpizzeria.com/"
     },
     {
+        "name": "IHOP",
+        "type": "restaurant",
+        "cuisine": "breakfast;pancake",
+        "latitude": 27.8398635,
+        "longitude": -82.6971602,
+        "website": "https://restaurants.ihop.com/en-us/fl/pinellas-park/breakfast-4671-park-blvd-360227"
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.8937697,
+        "longitude": -82.7809954,
+        "website": "https://www.starbucks.com/store-locator/store/1014337/publix-largo-1663-10500-ulmerton-road-ste-800-largo-fl-33771-us"
+    },
+    {
+        "name": "Sofias Greek Grill",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.9437158,
+        "longitude": -82.7463359,
+        "website": null
+    },
+    {
         "name": "Fresh Healthy Café",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -3525,6 +5005,14 @@
         "cuisine": "Not Specified",
         "latitude": 28.1845182,
         "longitude": -82.4130131,
+        "website": null
+    },
+    {
+        "name": "Luciano's Pizzeria & Ristorante",
+        "type": "restaurant",
+        "cuisine": "italian;pizza",
+        "latitude": 28.209264,
+        "longitude": -82.7588765,
         "website": null
     },
     {
@@ -3574,6 +5062,14 @@
         "latitude": 28.2274018,
         "longitude": -82.3759385,
         "website": "https://www.amici-pizza.com/"
+    },
+    {
+        "name": "Campanella's Italian Restaurant & Pizzeria",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.839662,
+        "longitude": -82.7012007,
+        "website": "http://campanellasitalianrestaurant.com"
     },
     {
         "name": "Ice Cream Theory",
@@ -3656,12 +5152,44 @@
         "website": "http://desitadkaoldsmar.com/"
     },
     {
+        "name": "Mickey's Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7710132,
+        "longitude": -82.6377614,
+        "website": "https://mickeyscafeandorganics.com/"
+    },
+    {
         "name": "PJ Dolan’s",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 28.081239,
         "longitude": -82.4270013,
         "website": null
+    },
+    {
+        "name": "GypsySouls Coffeehouse DTSP",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7779384,
+        "longitude": -82.6464579,
+        "website": "https://www.gypsysoulscoffeehouse.com/"
+    },
+    {
+        "name": "Grand Hacienda",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.7833999,
+        "longitude": -82.6382976,
+        "website": "https://grandhaciendarestaurant.com/st-petersburg/"
+    },
+    {
+        "name": "Burger Monger",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 27.7854495,
+        "longitude": -82.6382665,
+        "website": "https://www.burgermonger.com/st-petersburg-burgers/"
     },
     {
         "name": "Daddy Dawgs",
@@ -3808,6 +5336,14 @@
         "website": null
     },
     {
+        "name": "Bento",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 27.7679108,
+        "longitude": -82.636855,
+        "website": null
+    },
+    {
         "name": "Keys Jam Rock Grill",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -3822,6 +5358,14 @@
         "latitude": 27.9271495,
         "longitude": -82.315234,
         "website": "https://www.tsunamibrandonfl.com/"
+    },
+    {
+        "name": "Pana Kava Java",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.8659793,
+        "longitude": -82.7280973,
+        "website": "https://panakavajava.com"
     },
     {
         "name": "Lenny's Grill and Subs",
@@ -3845,6 +5389,54 @@
         "cuisine": "Not Specified",
         "latitude": 27.9599878,
         "longitude": -82.7287737,
+        "website": null
+    },
+    {
+        "name": "C A Cafe",
+        "type": "cafe",
+        "cuisine": "sandwich",
+        "latitude": 27.7670133,
+        "longitude": -82.6627282,
+        "website": "http://www.c-a-cafe.com"
+    },
+    {
+        "name": "Covered Bridge",
+        "type": "restaurant",
+        "cuisine": "american;breakfast",
+        "latitude": 28.0400739,
+        "longitude": -82.7840105,
+        "website": null
+    },
+    {
+        "name": "Rose's Bistro off Main",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.2496263,
+        "longitude": -82.7194923,
+        "website": null
+    },
+    {
+        "name": "Angie's Pizza",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2502902,
+        "longitude": -82.7190189,
+        "website": null
+    },
+    {
+        "name": "Village Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 28.2489901,
+        "longitude": -82.7198575,
+        "website": null
+    },
+    {
+        "name": "Jimmy's Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2488398,
+        "longitude": -82.7199284,
         "website": null
     },
     {
@@ -3960,6 +5552,14 @@
         "website": null
     },
     {
+        "name": "Oak and Stone",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7714042,
+        "longitude": -82.635283,
+        "website": null
+    },
+    {
         "name": "Westchase Pizza & Pasta Company",
         "type": "restaurant",
         "cuisine": "pizza;italian",
@@ -4000,6 +5600,30 @@
         "website": null
     },
     {
+        "name": "First Watch",
+        "type": "restaurant",
+        "cuisine": "american;breakfast",
+        "latitude": 27.9168079,
+        "longitude": -82.7311931,
+        "website": null
+    },
+    {
+        "name": "Pizza Hut",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.9178841,
+        "longitude": -82.7343891,
+        "website": "https://locations.pizzahut.com/fl/clearwater/5020-e-bay-dr"
+    },
+    {
+        "name": "Siam Thai & Sushi",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 27.9175763,
+        "longitude": -82.7305838,
+        "website": null
+    },
+    {
         "name": "The Lab Coffee",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -4013,6 +5637,46 @@
         "cuisine": "coffee_shop",
         "latitude": 27.9511506,
         "longitude": -82.4475228,
+        "website": null
+    },
+    {
+        "name": "The Bikery",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7699767,
+        "longitude": -82.6636919,
+        "website": null
+    },
+    {
+        "name": "WEPA Cocina de Puerto Rico",
+        "type": "restaurant",
+        "cuisine": "puerto_rican",
+        "latitude": 27.7685222,
+        "longitude": -82.6628553,
+        "website": null
+    },
+    {
+        "name": "Fabrica Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7701116,
+        "longitude": -82.6435054,
+        "website": "https://www.fabricapizza.com/"
+    },
+    {
+        "name": "The Frog Pond",
+        "type": "restaurant",
+        "cuisine": "sandwich;coffee_shop;breakfast;lunch",
+        "latitude": 27.7678476,
+        "longitude": -82.6464285,
+        "website": null
+    },
+    {
+        "name": "Mr. Empanada",
+        "type": "restaurant",
+        "cuisine": "latin_american",
+        "latitude": 27.7678535,
+        "longitude": -82.6461501,
         "website": null
     },
     {
@@ -4032,11 +5696,99 @@
         "website": null
     },
     {
+        "name": "Restoration Café",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.9667347,
+        "longitude": -82.8000636,
+        "website": null
+    },
+    {
+        "name": "Squeeze Juice Works",
+        "type": "cafe",
+        "cuisine": "juice;coffee;beer;wine",
+        "latitude": 27.7704859,
+        "longitude": -82.6629179,
+        "website": null
+    },
+    {
+        "name": "Fire Water",
+        "type": "restaurant",
+        "cuisine": "fish",
+        "latitude": 27.7712421,
+        "longitude": -82.6613222,
+        "website": "https://lovefoodcentral.com/"
+    },
+    {
+        "name": "Miss Vicki's On The River",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1731288,
+        "longitude": -82.7859153,
+        "website": null
+    },
+    {
         "name": "Kalina’s Coffee & European Food",
         "type": "restaurant",
         "cuisine": "european",
         "latitude": 27.8306775,
         "longitude": -82.6461831,
+        "website": null
+    },
+    {
+        "name": "Zaytoon Grill",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.7709417,
+        "longitude": -82.6553243,
+        "website": null
+    },
+    {
+        "name": "Back Draughts Pizza",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1463469,
+        "longitude": -82.7559231,
+        "website": null
+    },
+    {
+        "name": "Olive the World Bistro",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1466317,
+        "longitude": -82.7559125,
+        "website": null
+    },
+    {
+        "name": "Mr Souvlaki",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1535672,
+        "longitude": -82.7565836,
+        "website": null
+    },
+    {
+        "name": "Toula's Trailside Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1458118,
+        "longitude": -82.754468,
+        "website": null
+    },
+    {
+        "name": "Currents Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1460571,
+        "longitude": -82.7544793,
+        "website": null
+    },
+    {
+        "name": "Jimmy's Neighborhood Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1445012,
+        "longitude": -82.773835,
         "website": null
     },
     {
@@ -4056,12 +5808,44 @@
         "website": null
     },
     {
+        "name": "The Wooden Rooster",
+        "type": "restaurant",
+        "cuisine": "crepe;sandwich;salad;soup;coffee;beer;wine",
+        "latitude": 27.7733541,
+        "longitude": -82.6335353,
+        "website": "https://thewoodenrooster.com/"
+    },
+    {
+        "name": "Datz Saint Pete",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7709981,
+        "longitude": -82.635281,
+        "website": null
+    },
+    {
         "name": "Mission BBQ",
         "type": "restaurant",
         "cuisine": "barbecue",
         "latitude": 28.0251427,
         "longitude": -82.5379007,
         "website": null
+    },
+    {
+        "name": "Banyan Cafe and Catering",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7790325,
+        "longitude": -82.646504,
+        "website": null
+    },
+    {
+        "name": "Pizza Hut",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7857606,
+        "longitude": -82.6789682,
+        "website": "https://locations.pizzahut.com/fl/saint-petersburg/1421-34th-street-north"
     },
     {
         "name": "Ja Vahz Café",
@@ -4096,6 +5880,14 @@
         "website": "https://www.starbucks.com/store-locator/store/1010034/univ-of-tampa-education-center-820-west-north-a-st-tampa-fl-33606-us"
     },
     {
+        "name": "Neighborhood Joe",
+        "type": "cafe",
+        "cuisine": "coffee;breakfast;sandwich",
+        "latitude": 27.7960019,
+        "longitude": -82.646533,
+        "website": null
+    },
+    {
         "name": "The Attic on Kennedy",
         "type": "cafe",
         "cuisine": "sandwich",
@@ -4110,6 +5902,14 @@
         "latitude": 27.9426665,
         "longitude": -82.4561156,
         "website": "https://harpoonharryscrabhousetampa.com"
+    },
+    {
+        "name": "German Knoodle",
+        "type": "restaurant",
+        "cuisine": "german",
+        "latitude": 27.7713628,
+        "longitude": -82.647974,
+        "website": null
     },
     {
         "name": "Oggi Itailian",
@@ -4176,6 +5976,22 @@
         "website": "http://www.firstwatch.com"
     },
     {
+        "name": "El Toro Negro",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8207946,
+        "longitude": -82.7119753,
+        "website": null
+    },
+    {
+        "name": "Driftwood Roastery",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7709444,
+        "longitude": -82.6443652,
+        "website": null
+    },
+    {
         "name": "TamPiz",
         "type": "restaurant",
         "cuisine": "pizza",
@@ -4208,11 +6024,27 @@
         "website": null
     },
     {
+        "name": "HopScotch Cafe",
+        "type": "restaurant",
+        "cuisine": "sandwich;sandwich",
+        "latitude": 28.0160591,
+        "longitude": -82.7900006,
+        "website": null
+    },
+    {
         "name": "Truly Greek",
         "type": "restaurant",
         "cuisine": "greek",
         "latitude": 27.8913638,
         "longitude": -82.2724699,
+        "website": null
+    },
+    {
+        "name": "Herschel's Scratch Kitchen",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2502927,
+        "longitude": -82.7189444,
         "website": null
     },
     {
@@ -4328,6 +6160,14 @@
         "website": "https://www.starbucks.com/store-locator/store/1025388/home-2-suites-dt-tampa-channel-1155-e-kennedy-blvd-tampa-fl-33602-us"
     },
     {
+        "name": "Kao Thai Kitchen",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 27.8377469,
+        "longitude": -82.7280266,
+        "website": null
+    },
+    {
         "name": "Bento Sushi",
         "type": "restaurant",
         "cuisine": "sushi",
@@ -4360,12 +6200,28 @@
         "website": "https://www.flowercrownkombucha.com/"
     },
     {
+        "name": "The Outfielder Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.768854,
+        "longitude": -82.6522655,
+        "website": null
+    },
+    {
         "name": "Starbucks",
         "type": "cafe",
         "cuisine": "coffee_shop",
         "latitude": 28.0161769,
         "longitude": -82.613208,
         "website": "https://www.starbucks.com/store-locator/store/6500/target-tampa-2289-11627-w-hillsborough-ave-tampa-fl-336359736-us"
+    },
+    {
+        "name": "The Library",
+        "type": "restaurant",
+        "cuisine": "american;coffee",
+        "latitude": 27.7640138,
+        "longitude": -82.6397658,
+        "website": "https://thelibrarystpete.com/"
     },
     {
         "name": "Starbucks",
@@ -4440,6 +6296,30 @@
         "website": "https://www.brandonburgers.com/"
     },
     {
+        "name": "Beef 'O' Brady's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.3637073,
+        "longitude": -82.18879,
+        "website": null
+    },
+    {
+        "name": "China 1",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.7899884,
+        "longitude": -82.6802317,
+        "website": null
+    },
+    {
+        "name": "Toby's Original Little Italy Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza;sandwich;salad",
+        "latitude": 27.8046122,
+        "longitude": -82.6990736,
+        "website": null
+    },
+    {
         "name": "Village Inn",
         "type": "restaurant",
         "cuisine": "american",
@@ -4454,6 +6334,30 @@
         "latitude": 27.9969347,
         "longitude": -82.5594604,
         "website": "https://locations.pizzahut.com/fl/tampa/7023-w-hillsborough-ave"
+    },
+    {
+        "name": "Royal Sushi Buffet",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 28.2960587,
+        "longitude": -82.7064011,
+        "website": "https://royalsushibuffet.com/"
+    },
+    {
+        "name": "Driftwood Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7737246,
+        "longitude": -82.6225501,
+        "website": null
+    },
+    {
+        "name": "Driftwood Cafe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7738211,
+        "longitude": -82.6225596,
+        "website": null
     },
     {
         "name": "Sa Ri One Grill",
@@ -4584,12 +6488,36 @@
         "website": "https://www.tastythaicafefl.com"
     },
     {
+        "name": "Central Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.8381785,
+        "longitude": -82.7001761,
+        "website": "https://www.centralpizzafl.com"
+    },
+    {
+        "name": "Ravello Pizzeria",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.9167845,
+        "longitude": -82.7362619,
+        "website": "https://www.ravellopizzeriafl.com"
+    },
+    {
         "name": "Poké Falls",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 28.0329451,
         "longitude": -82.6444951,
         "website": "https://www.pokefallstampa.com"
+    },
+    {
+        "name": "Astra Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7987428,
+        "longitude": -82.6547886,
+        "website": "https://www.astrapizzaonline.com"
     },
     {
         "name": "Keson thai",
@@ -4614,6 +6542,22 @@
         "latitude": 28.0931509,
         "longitude": -82.7411471,
         "website": "https://www.pokeramentown.com"
+    },
+    {
+        "name": "Happi Wok",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.020969,
+        "longitude": -82.7646783,
+        "website": "https://1252countyrd1dunedinfl.menufy.com"
+    },
+    {
+        "name": "Kobe Italian",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8947432,
+        "longitude": -82.7137218,
+        "website": "https://www.kobeitalianfl.com"
     },
     {
         "name": "Pizza Hut",
@@ -4784,6 +6728,14 @@
         "website": null
     },
     {
+        "name": "China King",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8963858,
+        "longitude": -82.7842967,
+        "website": "https://www.chinakingrestaurantlargo.com"
+    },
+    {
         "name": "Medilish",
         "type": "restaurant",
         "cuisine": "mediterranean",
@@ -4808,6 +6760,30 @@
         "website": "http://vallartasrestaurants.com/"
     },
     {
+        "name": "Escape Root Juicery",
+        "type": "cafe",
+        "cuisine": "juice;coffee_shop",
+        "latitude": 28.0168711,
+        "longitude": -82.7801109,
+        "website": null
+    },
+    {
+        "name": "Conservative Grounds Coffee Shop",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.8931688,
+        "longitude": -82.7303726,
+        "website": null
+    },
+    {
+        "name": "ParaDeco Coffee Roasters",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7737062,
+        "longitude": -82.6335621,
+        "website": null
+    },
+    {
         "name": "Macondo Wesley Chapel",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -4824,6 +6800,22 @@
         "website": null
     },
     {
+        "name": "TuKro Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.0115418,
+        "longitude": -82.7863067,
+        "website": null
+    },
+    {
+        "name": "Knee Deep Coffee Shop",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.9600042,
+        "longitude": -82.7997146,
+        "website": null
+    },
+    {
         "name": "Spaddy's Coffee Seminole Heights",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -4837,6 +6829,14 @@
         "cuisine": "coffee_shop",
         "latitude": 27.9945194,
         "longitude": -82.4592211,
+        "website": null
+    },
+    {
+        "name": "Postmen Coffee Co.",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.3644683,
+        "longitude": -82.1895395,
         "website": null
     },
     {
@@ -4864,11 +6864,35 @@
         "website": null
     },
     {
+        "name": "Craft Kafé DTSP",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.771054,
+        "longitude": -82.6357411,
+        "website": null
+    },
+    {
+        "name": "Addicted to the Bean",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.9175024,
+        "longitude": -82.7482461,
+        "website": null
+    },
+    {
         "name": "Elevation Coffee Roasters",
         "type": "cafe",
         "cuisine": "coffee_shop",
         "latitude": 28.1055934,
         "longitude": -82.5312865,
+        "website": null
+    },
+    {
+        "name": "The Chelsea Saint Pete",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7663452,
+        "longitude": -82.6669442,
         "website": null
     },
     {
@@ -4920,6 +6944,14 @@
         "website": null
     },
     {
+        "name": "Grassroots Kava",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.771338,
+        "longitude": -82.6480824,
+        "website": "https://grassrootskavahouse.com/grassroots-kava-house-locations/grassroots-kava-house-st-petersburg/"
+    },
+    {
         "name": "STORM: Healthy Energy",
         "type": "cafe",
         "cuisine": "caffeine;protein;shakes;energy;drinks;smoothie",
@@ -4944,12 +6976,44 @@
         "website": null
     },
     {
+        "name": "Tasty Phở",
+        "type": "restaurant",
+        "cuisine": "asian;pho;vietnamese",
+        "latitude": 27.8397227,
+        "longitude": -82.7012019,
+        "website": "https://www.tastypho.com/"
+    },
+    {
+        "name": "Foxtail Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7798145,
+        "longitude": -82.6387538,
+        "website": "https://foxtailcoffee.com"
+    },
+    {
         "name": "Juicy Seafood",
         "type": "restaurant",
         "cuisine": "seafood",
         "latitude": 27.9267992,
         "longitude": -82.3156332,
         "website": "https://mmcseafood.com/brandon/"
+    },
+    {
+        "name": "Black Crow Coffee Shop",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7797788,
+        "longitude": -82.6357335,
+        "website": "https://www.blackcrowcoffeeco.com/"
+    },
+    {
+        "name": "Whiskey Wings",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.9180039,
+        "longitude": -82.7610921,
+        "website": "https://whiskeywings.com/largo/"
     },
     {
         "name": "Pei Wei",
@@ -5128,6 +7192,14 @@
         "website": null
     },
     {
+        "name": "Remy's Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9395961,
+        "longitude": -82.7739653,
+        "website": null
+    },
+    {
         "name": "La Casa Pasta",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -5176,6 +7248,14 @@
         "website": "https://thehungrygreek.com/"
     },
     {
+        "name": "The Floribbean",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7708392,
+        "longitude": -82.6661136,
+        "website": "https://thefloribbean.com/"
+    },
+    {
         "name": "32 Below",
         "type": "cafe",
         "cuisine": "bubble_tea;ice_cream",
@@ -5198,6 +7278,22 @@
         "latitude": 27.9517702,
         "longitude": -82.4848999,
         "website": "https://instagram.com/nachostacos813"
+    },
+    {
+        "name": "Pinoy Saint Pete",
+        "type": "restaurant",
+        "cuisine": "filipino",
+        "latitude": 27.7713103,
+        "longitude": -82.6504769,
+        "website": "https://www.pinoystpete.com/"
+    },
+    {
+        "name": "Karma",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7713377,
+        "longitude": -82.6504646,
+        "website": "https://www.karmaeatery.com/"
     },
     {
         "name": "Ahi Asian Bistro",
@@ -5240,12 +7336,84 @@
         "website": null
     },
     {
+        "name": "Urban",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 27.7713652,
+        "longitude": -82.6688326,
+        "website": null
+    },
+    {
+        "name": "Baba",
+        "type": "restaurant",
+        "cuisine": "lebanese",
+        "latitude": 27.7713106,
+        "longitude": -82.6701619,
+        "website": null
+    },
+    {
         "name": "Metro Diner",
         "type": "restaurant",
         "cuisine": "diner",
         "latitude": 27.945196,
         "longitude": -82.5102612,
         "website": "https://metrodiner.com/locations/florida/south-tampa/"
+    },
+    {
+        "name": "The Lure Ono",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.771355,
+        "longitude": -82.6432371,
+        "website": null
+    },
+    {
+        "name": "China Garden",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.9178489,
+        "longitude": -82.7640742,
+        "website": "https://www.chinagardenfl.net/"
+    },
+    {
+        "name": "Arkane Aleworks",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.9183805,
+        "longitude": -82.7601275,
+        "website": "https://www.arkanebeer.com/"
+    },
+    {
+        "name": "Hibachi Express",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 27.9174504,
+        "longitude": -82.7649741,
+        "website": "https://www.hibachiexpresslargo.com/"
+    },
+    {
+        "name": "Broken Yolk",
+        "type": "restaurant",
+        "cuisine": "diner",
+        "latitude": 28.2082633,
+        "longitude": -82.7231647,
+        "website": "http://www.thebrokenyolkfamilyrestaurant.com"
+    },
+    {
+        "name": "Mountaineer Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.2503606,
+        "longitude": -82.720795,
+        "website": null
+    },
+    {
+        "name": "Fitzgerald's Irish Tavern",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 28.2498386,
+        "longitude": -82.7183711,
+        "website": null
     },
     {
         "name": "CAVA",
@@ -5270,6 +7438,14 @@
         "latitude": 28.2387216,
         "longitude": -82.3381456,
         "website": null
+    },
+    {
+        "name": "Fo'Cheezy",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7724834,
+        "longitude": -82.6368433,
+        "website": "https://www.focheezy.com"
     },
     {
         "name": "Mahana Fresh",
@@ -5336,6 +7512,14 @@
         "website": null
     },
     {
+        "name": "Delicias Latinas",
+        "type": "restaurant",
+        "cuisine": "cuban",
+        "latitude": 28.250474,
+        "longitude": -82.7246608,
+        "website": null
+    },
+    {
         "name": "Starbucks",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -5350,6 +7534,14 @@
         "latitude": 27.8535229,
         "longitude": -82.2113126,
         "website": "https://locations.pizzahut.com/fl/lithia/16224-bayberry-glen-dr"
+    },
+    {
+        "name": "EDO Japanese Steakhouse and Sushi Bar",
+        "type": "restaurant",
+        "cuisine": "japanese;sushi;steak_house",
+        "latitude": 27.8128571,
+        "longitude": -82.7298774,
+        "website": "https://edojapanesesteakhouseandsushibar.com"
     },
     {
         "name": "Lemongrass",
@@ -5406,6 +7598,14 @@
         "latitude": 27.9463471,
         "longitude": -82.4588051,
         "website": "https://www.genxtavern.com"
+    },
+    {
+        "name": "Hibachi Express",
+        "type": "restaurant",
+        "cuisine": "japanese",
+        "latitude": 27.9722046,
+        "longitude": -82.0541792,
+        "website": "https://hibachilakeland.com/"
     },
     {
         "name": "Tijuana Flats",
@@ -5528,6 +7728,22 @@
         "website": "https://www.kiwamiramensushi.com/"
     },
     {
+        "name": "Koffee Coffee Company",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.1489646,
+        "longitude": -82.7549069,
+        "website": null
+    },
+    {
+        "name": "Ding Tea",
+        "type": "cafe",
+        "cuisine": "bubble_tea",
+        "latitude": 27.8288486,
+        "longitude": -82.729009,
+        "website": null
+    },
+    {
         "name": "Akira",
         "type": "restaurant",
         "cuisine": "sushi;japanese",
@@ -5552,12 +7768,36 @@
         "website": null
     },
     {
+        "name": "Red Ribbon",
+        "type": "restaurant",
+        "cuisine": "filipino",
+        "latitude": 27.8396771,
+        "longitude": -82.6887695,
+        "website": null
+    },
+    {
+        "name": "Ding Tea",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.8289864,
+        "longitude": -82.7289525,
+        "website": null
+    },
+    {
         "name": "Your Pie",
         "type": "restaurant",
         "cuisine": "pizza",
         "latitude": 27.8929075,
         "longitude": -82.2841058,
         "website": "https://yourpie.com/locations/brandon/"
+    },
+    {
+        "name": "China 1",
+        "type": "restaurant",
+        "cuisine": "chinese;lunch",
+        "latitude": 27.9518637,
+        "longitude": -82.7861301,
+        "website": "https://china1clearwater.com"
     },
     {
         "name": "L'oven Pizza",
@@ -5664,12 +7904,28 @@
         "website": null
     },
     {
+        "name": "BJ's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.838789,
+        "longitude": -82.6862876,
+        "website": "https://www.bjsrestaurants.com/locations/fl/pinellas-park"
+    },
+    {
         "name": "Fast Jacks Breakfast",
         "type": "cafe",
         "cuisine": "coffee_shop;breakfast;bagel;eggs",
         "latitude": 27.9392203,
         "longitude": -82.4543529,
         "website": "www.Jacksonsbistro.com"
+    },
+    {
+        "name": "Brick & Mortar",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7713803,
+        "longitude": -82.6410497,
+        "website": null
     },
     {
         "name": "Starbucks",
@@ -5806,6 +8062,14 @@
         "latitude": 27.9048989,
         "longitude": -82.4939659,
         "website": null
+    },
+    {
+        "name": "Café Tuk Tuk",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7713011,
+        "longitude": -82.6341708,
+        "website": "https://cafetuktuk.us"
     },
     {
         "name": "Roast",
@@ -5952,6 +8216,14 @@
         "website": null
     },
     {
+        "name": "El Nica Restaurant",
+        "type": "restaurant",
+        "cuisine": "nicaraguan",
+        "latitude": 27.8395867,
+        "longitude": -82.7154061,
+        "website": "https://eltionicarestaurantfl.com"
+    },
+    {
         "name": "Magic Tea & Coffee",
         "type": "cafe",
         "cuisine": "bubble_tea",
@@ -6016,6 +8288,46 @@
         "website": null
     },
     {
+        "name": "Greek City Cafe",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.8924082,
+        "longitude": -82.7822128,
+        "website": null
+    },
+    {
+        "name": "The Spot Sushi Burritos",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.8921911,
+        "longitude": -82.7845232,
+        "website": "https://www.spotsushiburrito.com/"
+    },
+    {
+        "name": "Bro's Pizzeria & Bar",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.9162151,
+        "longitude": -82.7607646,
+        "website": "https://www.brospizzeria.com/"
+    },
+    {
+        "name": "Willie Jewell’s Old School Bar-B-Q",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 27.8939981,
+        "longitude": -82.7643436,
+        "website": "https://williejewells.com/"
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.8938497,
+        "longitude": -82.7609826,
+        "website": "https://www.starbucks.com/store-locator/store/1006328/ulmerton-starkey-8870-ulmerton-rd-largo-fl-337713876-us"
+    },
+    {
         "name": "The Scrambled Egg",
         "type": "restaurant",
         "cuisine": "breakfast;brunch;lunch",
@@ -6029,6 +8341,22 @@
         "cuisine": "asian",
         "latitude": 27.9601138,
         "longitude": -82.4421223,
+        "website": null
+    },
+    {
+        "name": "China 1",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.915396,
+        "longitude": -82.7477841,
+        "website": "https://chinaonelargoonline.com/"
+    },
+    {
+        "name": "Beach Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.8909471,
+        "longitude": -82.7840434,
         "website": null
     },
     {
@@ -6070,6 +8398,14 @@
         "latitude": 27.9438337,
         "longitude": -82.4493424,
         "website": null
+    },
+    {
+        "name": "Boulevard Family Restaurant",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.2662094,
+        "longitude": -82.6746801,
+        "website": "https://boulevardfamilyrestaurant.com"
     },
     {
         "name": "Pita's Republic",
@@ -6256,6 +8592,46 @@
         "website": "https://www.spookeasylounge.com/"
     },
     {
+        "name": "Inferno Pizza Lounge",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.1853881,
+        "longitude": -82.7390161,
+        "website": null
+    },
+    {
+        "name": "China 1",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 28.1990794,
+        "longitude": -82.7383764,
+        "website": null
+    },
+    {
+        "name": "Angelo's Italian Restaurant",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 28.1971077,
+        "longitude": -82.740759,
+        "website": null
+    },
+    {
+        "name": "Mangos and Marley: A Coastal Cafe",
+        "type": "restaurant",
+        "cuisine": "cuban",
+        "latitude": 28.0128148,
+        "longitude": -82.7856153,
+        "website": "https://www.mangosandmarleycafe.com/"
+    },
+    {
+        "name": "Crown & Bull",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.011868,
+        "longitude": -82.7893419,
+        "website": "https://www.crownandbull.com/"
+    },
+    {
         "name": "Hot Tuna Sushi Bar & Grill",
         "type": "restaurant",
         "cuisine": "sushi",
@@ -6352,6 +8728,38 @@
         "website": null
     },
     {
+        "name": "Village Inn",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.9150945,
+        "longitude": -82.7273984,
+        "website": "https://www.villageinn.com/clearwater-fl"
+    },
+    {
+        "name": "Joyful Asian Cuisine",
+        "type": "restaurant",
+        "cuisine": "chinese;thai",
+        "latitude": 28.1364313,
+        "longitude": -82.0245698,
+        "website": "https://www.joyfullakelandfl.com/"
+    },
+    {
+        "name": "The Limani",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.1556731,
+        "longitude": -82.7616037,
+        "website": null
+    },
+    {
+        "name": "Gennaro's Cafe & Deli",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.1550921,
+        "longitude": -82.763675,
+        "website": null
+    },
+    {
         "name": "Bubba's 33",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -6366,6 +8774,14 @@
         "latitude": 28.1450157,
         "longitude": -82.5991938,
         "website": "https://www.thekeystonekorner.com"
+    },
+    {
+        "name": "Kahwa Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.0281219,
+        "longitude": -82.7632667,
+        "website": null
     },
     {
         "name": "Bad Ass Coffee of Hawaii",
@@ -6389,6 +8805,94 @@
         "cuisine": "asian",
         "latitude": 28.056695,
         "longitude": -82.5821653,
+        "website": null
+    },
+    {
+        "name": "New China Beach",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.8928459,
+        "longitude": -82.7202615,
+        "website": null
+    },
+    {
+        "name": "Mugs Sports Bar and Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8951974,
+        "longitude": -82.7139941,
+        "website": "https://mugssportsbar.com"
+    },
+    {
+        "name": "Kitsune Sushi",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.915056,
+        "longitude": -82.7278225,
+        "website": "https://kitsunesushiclearwater.com"
+    },
+    {
+        "name": "Dharma Kava Lounge",
+        "type": "cafe",
+        "cuisine": "tea;coffee_shop;Kava",
+        "latitude": 27.8928716,
+        "longitude": -82.7303538,
+        "website": "https://www.dharmakavalounge.com"
+    },
+    {
+        "name": "Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza;italian",
+        "latitude": 27.8935702,
+        "longitude": -82.7453203,
+        "website": null
+    },
+    {
+        "name": "Club House Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8707334,
+        "longitude": -82.7604092,
+        "website": "https://clubhousecafeandgrill.com"
+    },
+    {
+        "name": "Applebee's",
+        "type": "restaurant",
+        "cuisine": "american;burger",
+        "latitude": 27.8717358,
+        "longitude": -82.7618442,
+        "website": "https://restaurants.applebees.com/en-us/fl/largo/10911-starkey-road-90033"
+    },
+    {
+        "name": "Buttermilk Eatery",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8363071,
+        "longitude": -82.6834901,
+        "website": "https://www.buttermilkeat.com/"
+    },
+    {
+        "name": "La Mordida Restaurant Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9001739,
+        "longitude": -82.7283855,
+        "website": "https://www.lamordidagrill.com"
+    },
+    {
+        "name": "Kogi Grill",
+        "type": "restaurant",
+        "cuisine": "asian;mexican",
+        "latitude": 27.894563,
+        "longitude": -82.7367138,
+        "website": "https://www.kogigrillbbq.com"
+    },
+    {
+        "name": "Cuban Cafe",
+        "type": "restaurant",
+        "cuisine": "caribbean",
+        "latitude": 27.8945708,
+        "longitude": -82.7369092,
         "website": null
     },
     {
@@ -6440,6 +8944,14 @@
         "website": null
     },
     {
+        "name": "Burger 21 Lakeland",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 28.0008291,
+        "longitude": -81.9813155,
+        "website": "https://www.burger21.com"
+    },
+    {
         "name": "Mighty Quinn's Barbeque",
         "type": "restaurant",
         "cuisine": "american;barbecue",
@@ -6464,11 +8976,51 @@
         "website": null
     },
     {
+        "name": "Sushi Sho Rexley",
+        "type": "restaurant",
+        "cuisine": "japanese;sushi",
+        "latitude": 27.7740158,
+        "longitude": -82.6357569,
+        "website": "https://rexleysushi.com/"
+    },
+    {
+        "name": "Pin Wok & Bowl",
+        "type": "restaurant",
+        "cuisine": "japanese;thai",
+        "latitude": 27.7713736,
+        "longitude": -82.6394129,
+        "website": "https://pinwokandbowl.com/"
+    },
+    {
         "name": "Taste of China",
         "type": "restaurant",
         "cuisine": "chinese",
         "latitude": 27.8823077,
         "longitude": -82.5070907,
+        "website": null
+    },
+    {
+        "name": "Los Guerreros Mexican Restaurant",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.8600396,
+        "longitude": -82.7278354,
+        "website": "https://www.losguerreros.org"
+    },
+    {
+        "name": "Rose’s",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.77089,
+        "longitude": -82.6513829,
+        "website": null
+    },
+    {
+        "name": "Sparrow",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.771002,
+        "longitude": -82.6512508,
         "website": null
     },
     {
@@ -6544,6 +9096,14 @@
         "website": "https://www.thaiamrestaurant.com/"
     },
     {
+        "name": "Sushi Kabuki",
+        "type": "restaurant",
+        "cuisine": "japanese;sushi",
+        "latitude": 27.8712459,
+        "longitude": -82.7606046,
+        "website": "https://sushikabukiseminole.com/"
+    },
+    {
         "name": "Ken Sushi and Asian Bistro",
         "type": "restaurant",
         "cuisine": "japanese;sushi",
@@ -6568,6 +9128,14 @@
         "website": "https://www.aquanuve.com"
     },
     {
+        "name": "World Vegan Cuisine",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8025172,
+        "longitude": -82.6792344,
+        "website": "https://worldvegancuisine.com/"
+    },
+    {
         "name": "Fitlife Foods",
         "type": "restaurant",
         "cuisine": "regional;burger;chinese;italian;mexican;asian;american;korean;breakfast;mediterranean",
@@ -6590,6 +9158,14 @@
         "latitude": 28.1834336,
         "longitude": -82.3544446,
         "website": "https://eatfitlifefoods.com/"
+    },
+    {
+        "name": "Bad Mother",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7700132,
+        "longitude": -82.6363819,
+        "website": null
     },
     {
         "name": "Cuban American Original Bakery & Cafe",
@@ -6624,6 +9200,14 @@
         "website": "https://www.EastCoastPizza.com"
     },
     {
+        "name": "Sawatdee Thai and Sushi",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8388763,
+        "longitude": -82.6942401,
+        "website": null
+    },
+    {
         "name": "Coaster Coffee",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -6656,12 +9240,44 @@
         "website": null
     },
     {
+        "name": "Sip Tea",
+        "type": "cafe",
+        "cuisine": "bubble_tea",
+        "latitude": 27.8374596,
+        "longitude": -82.7280807,
+        "website": "https://sipteaboba.com"
+    },
+    {
+        "name": "Lemon Leaf Cafe",
+        "type": "restaurant",
+        "cuisine": "breakfast",
+        "latitude": 27.9171428,
+        "longitude": -82.7737237,
+        "website": null
+    },
+    {
+        "name": "Pinellas Pizzeria",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.9172163,
+        "longitude": -82.7538776,
+        "website": "https://pinellaspizzeria.com/"
+    },
+    {
         "name": "Talkin' Tacos",
         "type": "restaurant",
         "cuisine": "mexican",
         "latitude": 27.9603231,
         "longitude": -82.7192119,
         "website": "https://talkintacos.net/talkinclearwater"
+    },
+    {
+        "name": "Capogna's Dugout",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.9596817,
+        "longitude": -82.768734,
+        "website": null
     },
     {
         "name": "SOG Cafe",
@@ -6760,12 +9376,44 @@
         "website": null
     },
     {
+        "name": "Tang's Chicken",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9600216,
+        "longitude": -82.75411,
+        "website": null
+    },
+    {
         "name": "Gao Restaurant",
         "type": "restaurant",
         "cuisine": "vietnamese",
         "latitude": 28.0262706,
         "longitude": -82.5004268,
         "website": null
+    },
+    {
+        "name": "Beech Kombucha",
+        "type": "cafe",
+        "cuisine": "kombucha",
+        "latitude": 27.764105,
+        "longitude": -82.675593,
+        "website": null
+    },
+    {
+        "name": "M Sushi",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 27.9173393,
+        "longitude": -82.7493483,
+        "website": "https://msushilargo.com"
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop;sandwich",
+        "latitude": 28.0190734,
+        "longitude": -82.7564407,
+        "website": "https://www.starbucks.com/store-locator?map=28.019013,-82.756471,5z"
     },
     {
         "name": "Pizza Hut",
@@ -6776,11 +9424,59 @@
         "website": "https://locations.pizzahut.com/fl/clearwater/2519-mcmullen-booth-rd"
     },
     {
+        "name": "Pete's Bagels - Tarpon Springs",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.1558508,
+        "longitude": -82.7624638,
+        "website": null
+    },
+    {
         "name": "Sunset&Spice",
         "type": "restaurant",
         "cuisine": "caribbean",
         "latitude": 27.7674468,
         "longitude": -82.327302,
+        "website": null
+    },
+    {
+        "name": "Mama's Greek Cuisine",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.1550076,
+        "longitude": -82.760557,
+        "website": null
+    },
+    {
+        "name": "Anclote Brew",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 28.155341,
+        "longitude": -82.7607174,
+        "website": null
+    },
+    {
+        "name": "Dock's Waterfront",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1556026,
+        "longitude": -82.7585311,
+        "website": null
+    },
+    {
+        "name": "Mia's Cafe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.1552299,
+        "longitude": -82.7576482,
+        "website": null
+    },
+    {
+        "name": "Niko's Grill House",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.1551895,
+        "longitude": -82.7602087,
         "website": null
     },
     {
@@ -6864,12 +9560,36 @@
         "website": "https://locations.pizzahut.com/fl/clearwater/2519-mcmullen-booth-rd"
     },
     {
+        "name": "Dodge's Southern Style",
+        "type": "restaurant",
+        "cuisine": "chicken",
+        "latitude": 28.0063021,
+        "longitude": -82.7758574,
+        "website": null
+    },
+    {
         "name": "Planet Grilled Cheese",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 28.017637,
         "longitude": -82.7329103,
         "website": null
+    },
+    {
+        "name": "Tequilas",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.9657965,
+        "longitude": -82.8003251,
+        "website": null
+    },
+    {
+        "name": "Amorette Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7121999,
+        "longitude": -82.2979672,
+        "website": "https://amorettecoffee.com/"
     },
     {
         "name": "Urban Therapy",
@@ -6888,12 +9608,36 @@
         "website": "https://taquerialacanadabrandon.com/"
     },
     {
+        "name": "Quan Ngon Bistro",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.8395655,
+        "longitude": -82.7191876,
+        "website": null
+    },
+    {
+        "name": "Beangood Coffee",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.8395384,
+        "longitude": -82.7193481,
+        "website": null
+    },
+    {
         "name": "Brick City Eatery",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 28.1893893,
         "longitude": -82.5408383,
         "website": null
+    },
+    {
+        "name": "Dutch Bros. Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.9170679,
+        "longitude": -82.7640209,
+        "website": "https://www.dutchbros.com/locations/fl/largo/2250-e-bay-dr"
     },
     {
         "name": "Gino's NY Style Pizzeria",
@@ -6912,11 +9656,59 @@
         "website": null
     },
     {
+        "name": "Chiang Mai",
+        "type": "restaurant",
+        "cuisine": "sushi;thai",
+        "latitude": 27.9654445,
+        "longitude": -82.8005731,
+        "website": "https://cmthaiandsushi.com"
+    },
+    {
+        "name": "Elliott Aster",
+        "type": "restaurant",
+        "cuisine": "new_american;italian",
+        "latitude": 27.7779224,
+        "longitude": -82.6296697,
+        "website": "https://www.elliottaster.com/"
+    },
+    {
         "name": "Texas Roadhouse",
         "type": "restaurant",
         "cuisine": "steak_house",
         "latitude": 28.1946485,
         "longitude": -82.5887881,
+        "website": null
+    },
+    {
+        "name": "Keke's Breakfast Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7139825,
+        "longitude": -82.3697608,
+        "website": null
+    },
+    {
+        "name": "Cafe Masse",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.9438953,
+        "longitude": -82.7453762,
+        "website": null
+    },
+    {
+        "name": "D&E Donuts",
+        "type": "cafe",
+        "cuisine": "bagel",
+        "latitude": 27.9436216,
+        "longitude": -82.7453981,
+        "website": null
+    },
+    {
+        "name": "Chez David Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9432198,
+        "longitude": -82.7454218,
         "website": null
     },
     {
@@ -6928,6 +9720,14 @@
         "website": null
     },
     {
+        "name": "The Galley - A St. Pete Tavern",
+        "type": "pub",
+        "cuisine": "american;burger;caribbean;chicken;fish;fish_and_chips",
+        "latitude": 27.7717976,
+        "longitude": -82.6369166,
+        "website": "https://thegalleystpete.com/"
+    },
+    {
         "name": "Willy's Bloomingdale Pizza",
         "type": "restaurant",
         "cuisine": "pizza",
@@ -6936,12 +9736,28 @@
         "website": "https://willysbloomingdalepizza.com"
     },
     {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.9167405,
+        "longitude": -82.7270602,
+        "website": null
+    },
+    {
         "name": "Sunset & Spice",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 27.9430475,
         "longitude": -82.4827428,
         "website": "https://www.sunsetandspice.com/"
+    },
+    {
+        "name": "The Galley",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7717256,
+        "longitude": -82.6382772,
+        "website": "https://thegalleystpete.com/"
     },
     {
         "name": "Havana Dreamers Cafe",
@@ -6982,6 +9798,38 @@
         "latitude": 28.0480542,
         "longitude": -82.3941855,
         "website": null
+    },
+    {
+        "name": "China King",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.3292339,
+        "longitude": -82.1858755,
+        "website": null
+    },
+    {
+        "name": "Smitty's Smokehouse & Grill",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 28.3445695,
+        "longitude": -82.1870421,
+        "website": null
+    },
+    {
+        "name": "BubbaQue's BBQ",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 28.3428732,
+        "longitude": -82.1868948,
+        "website": null
+    },
+    {
+        "name": "Ellianos Coffee",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.3417649,
+        "longitude": -82.1867254,
+        "website": "https://ellianos.com/"
     },
     {
         "name": "First Watch",
@@ -7080,6 +9928,54 @@
         "website": null
     },
     {
+        "name": "Bay Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9152567,
+        "longitude": -82.7479436,
+        "website": "https://cash.app/order/$baygrill"
+    },
+    {
+        "name": "Valdiano",
+        "type": "restaurant",
+        "cuisine": "italian;pizza",
+        "latitude": 27.9998403,
+        "longitude": -81.9813219,
+        "website": null
+    },
+    {
+        "name": "Gaskins Barbecue and Lobster",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.999747,
+        "longitude": -81.9813227,
+        "website": null
+    },
+    {
+        "name": "Fish City Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0006214,
+        "longitude": -81.9797719,
+        "website": null
+    },
+    {
+        "name": "Saigon Bistro",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.000105,
+        "longitude": -81.9806176,
+        "website": null
+    },
+    {
+        "name": "Thai Sushi",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0003886,
+        "longitude": -81.9803351,
+        "website": null
+    },
+    {
         "name": "CAVA",
         "type": "restaurant",
         "cuisine": "mediterranean",
@@ -7102,6 +9998,14 @@
         "latitude": 28.1933728,
         "longitude": -82.5071158,
         "website": null
+    },
+    {
+        "name": "Umberto's of Long Island",
+        "type": "restaurant",
+        "cuisine": "italian_pizza",
+        "latitude": 28.0018505,
+        "longitude": -82.7757644,
+        "website": "https://umbertosoflongisland.com/"
     },
     {
         "name": "Mellow Mushroom",
@@ -7152,6 +10056,14 @@
         "website": null
     },
     {
+        "name": "Bon Apetit",
+        "type": "restaurant",
+        "cuisine": "french",
+        "latitude": 28.0131869,
+        "longitude": -82.7932568,
+        "website": null
+    },
+    {
         "name": "Applebee's",
         "type": "restaurant",
         "cuisine": "american",
@@ -7190,6 +10102,14 @@
         "latitude": 27.9593268,
         "longitude": -82.4345907,
         "website": "https://casasantostefano.com"
+    },
+    {
+        "name": "Cafe Honeymoon",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0591297,
+        "longitude": -82.8263664,
+        "website": null
     },
     {
         "name": "IHOP",
@@ -7238,6 +10158,14 @@
         "latitude": 28.0644355,
         "longitude": -82.4104293,
         "website": null
+    },
+    {
+        "name": "Ferg's Sports Bar & Grill",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.770797,
+        "longitude": -82.6523852,
+        "website": "https://www.fergssportsbar.com/"
     },
     {
         "name": "Olive Garden",
@@ -7304,11 +10232,91 @@
         "website": null
     },
     {
+        "name": "Abuelos",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.9989379,
+        "longitude": -81.9789086,
+        "website": "https://www.abuelos.com/_webapp_1332731/Lakeland,_FL"
+    },
+    {
+        "name": "LongHorn Steakhouse",
+        "type": "restaurant",
+        "cuisine": "steak_house",
+        "latitude": 27.9984367,
+        "longitude": -81.9769071,
+        "website": null
+    },
+    {
+        "name": "Chili's",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 27.9985253,
+        "longitude": -81.9759665,
+        "website": null
+    },
+    {
+        "name": "Olive Garden",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 28.0010695,
+        "longitude": -81.9757948,
+        "website": "https://www.olivegarden.com/locations/fl/lakeland/lakeside-village-harden-blvd/4432"
+    },
+    {
         "name": "Red Robin",
         "type": "restaurant",
         "cuisine": "burger",
         "latitude": 28.1868751,
         "longitude": -82.349615,
+        "website": null
+    },
+    {
+        "name": "Luckie B's",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 27.8118112,
+        "longitude": -82.6381158,
+        "website": "https://luckiebs.com/"
+    },
+    {
+        "name": "Kristina's Cafe",
+        "type": "restaurant",
+        "cuisine": "diner",
+        "latitude": 27.804315,
+        "longitude": -82.6799187,
+        "website": null
+    },
+    {
+        "name": "Fresh Kitchen",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.8125785,
+        "longitude": -82.638272,
+        "website": "https://www.eatfreshkitchen.com/"
+    },
+    {
+        "name": "Pizza Hut",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.8088257,
+        "longitude": -82.6382549,
+        "website": null
+    },
+    {
+        "name": "El Cap",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 27.8041855,
+        "longitude": -82.6389007,
+        "website": null
+    },
+    {
+        "name": "Evos",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7963888,
+        "longitude": -82.6381208,
         "website": null
     },
     {
@@ -7320,12 +10328,76 @@
         "website": null
     },
     {
+        "name": "Dunedin Brewery",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 28.0140273,
+        "longitude": -82.7876126,
+        "website": "http://www.dunedinbrewery.com/"
+    },
+    {
+        "name": "Applebee's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.815147,
+        "longitude": -82.6389628,
+        "website": "https://restaurants.applebees.com/en-us/fl/st-petersburg/4700-4th-street-north-89065"
+    },
+    {
+        "name": "Olive Garden",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.8333041,
+        "longitude": -82.6810497,
+        "website": null
+    },
+    {
+        "name": "Zeko's Mediterranian Grill",
+        "type": "restaurant",
+        "cuisine": "mediterranean",
+        "latitude": 27.8206968,
+        "longitude": -82.6994978,
+        "website": null
+    },
+    {
+        "name": "Sea Sea Rider's",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 28.0120448,
+        "longitude": -82.7906598,
+        "website": "https://seasearidersdunedin.com/"
+    },
+    {
+        "name": "Island Way Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9763266,
+        "longitude": -82.8173138,
+        "website": null
+    },
+    {
+        "name": "Lucky Lobster",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 28.0144848,
+        "longitude": -82.7889593,
+        "website": null
+    },
+    {
         "name": "Noble Rice",
         "type": "restaurant",
         "cuisine": "japanese",
         "latitude": 27.9418979,
         "longitude": -82.468299,
         "website": null
+    },
+    {
+        "name": "Chili's",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 27.8375508,
+        "longitude": -82.6830624,
+        "website": "https://www.chilis.com/en/pages/LocationLanding.aspx?RestaurantId=001.005.1117&Tab=0&OnlineEnabled=True&DeliveryEnabled=False&Country=US"
     },
     {
         "name": "Country Pizza Inn",
@@ -7360,6 +10432,102 @@
         "website": null
     },
     {
+        "name": "Hooters",
+        "type": "restaurant",
+        "cuisine": "burger",
+        "latitude": 27.8099364,
+        "longitude": -82.6382282,
+        "website": "https://www.originalhooters.com/locations/tampa-bay/st-pete-4th-street/"
+    },
+    {
+        "name": "Pee-Pa's Garage Craft Brewery",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.8302764,
+        "longitude": -82.7004314,
+        "website": null
+    },
+    {
+        "name": "Davidson's Dockside",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1623088,
+        "longitude": -82.7698767,
+        "website": null
+    },
+    {
+        "name": "Mr. & Mrs. Crab",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8407578,
+        "longitude": -82.685431,
+        "website": null
+    },
+    {
+        "name": "Winghouse",
+        "type": "restaurant",
+        "cuisine": "chicken",
+        "latitude": 27.8422628,
+        "longitude": -82.6864608,
+        "website": null
+    },
+    {
+        "name": "Cracker Barrel",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.8218071,
+        "longitude": -82.6626587,
+        "website": null
+    },
+    {
+        "name": "Oishi Sushi & Japanese Steak House",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.8250235,
+        "longitude": -82.6800114,
+        "website": null
+    },
+    {
+        "name": "Red Lobster",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.8278337,
+        "longitude": -82.6792004,
+        "website": null
+    },
+    {
+        "name": "Waffle House",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.8214354,
+        "longitude": -82.6671922,
+        "website": "https://locations.wafflehouse.com/stpetersburg-fl-1620/"
+    },
+    {
+        "name": "Tijuana Flats",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.914914,
+        "longitude": -82.7463634,
+        "website": null
+    },
+    {
+        "name": "Sesh",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7925853,
+        "longitude": -82.6382024,
+        "website": null
+    },
+    {
+        "name": "Rococo Steak",
+        "type": "restaurant",
+        "cuisine": "american;fine_dining;steak_house",
+        "latitude": 27.7697086,
+        "longitude": -82.642626,
+        "website": null
+    },
+    {
         "name": "Perkins",
         "type": "restaurant",
         "cuisine": "american",
@@ -7381,6 +10549,30 @@
         "cuisine": "tex-mex",
         "latitude": 28.0084732,
         "longitude": -82.7298076,
+        "website": null
+    },
+    {
+        "name": "Applebee's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.9168601,
+        "longitude": -82.7336371,
+        "website": "https://restaurants.applebees.com/en-us/fl/clearwater/5110-east-bay-drive-86014"
+    },
+    {
+        "name": "LongHorn Steakhouse",
+        "type": "restaurant",
+        "cuisine": "steak_house",
+        "latitude": 27.9157936,
+        "longitude": -82.7312037,
+        "website": null
+    },
+    {
+        "name": "Chili's",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 27.9168393,
+        "longitude": -82.7305633,
         "website": null
     },
     {
@@ -7424,12 +10616,28 @@
         "website": null
     },
     {
+        "name": "Concession",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0316943,
+        "longitude": -82.8198025,
+        "website": null
+    },
+    {
         "name": "Sparta Seafood And Grill",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 28.0494145,
         "longitude": -82.6990617,
         "website": "https://www.spartaseafoodandgrill.com/index.php"
+    },
+    {
+        "name": "Dog Pub Social",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 28.0196706,
+        "longitude": -82.7731621,
+        "website": "https://dogpubsocial.com/"
     },
     {
         "name": "IHOP",
@@ -7456,12 +10664,124 @@
         "website": "https://restaurants.applebees.com/en-us/fl/clearwater/30180-us-hwy.-19-north-86025"
     },
     {
+        "name": "La Fondita de Leo",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1819727,
+        "longitude": -82.739607,
+        "website": null
+    },
+    {
         "name": "Hula Bay Club",
         "type": "restaurant",
         "cuisine": "hawaiian",
         "latitude": 27.8855246,
         "longitude": -82.5345611,
         "website": "https://hulabayclub.com/"
+    },
+    {
+        "name": "Quaker Steak & Lube",
+        "type": "restaurant",
+        "cuisine": "wings",
+        "latitude": 27.8668253,
+        "longitude": -82.7008832,
+        "website": null
+    },
+    {
+        "name": "Pizza Hut",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.915853,
+        "longitude": -82.7402944,
+        "website": null
+    },
+    {
+        "name": "Denny's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.8170734,
+        "longitude": -82.6790246,
+        "website": null
+    },
+    {
+        "name": "Mamus Kitchen",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.8278944,
+        "longitude": -82.7120116,
+        "website": null
+    },
+    {
+        "name": "Bodega",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7708686,
+        "longitude": -82.6508381,
+        "website": null
+    },
+    {
+        "name": "Hawkers Asian Street Food",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 27.7713368,
+        "longitude": -82.6515023,
+        "website": null
+    },
+    {
+        "name": "Dr. BBQ",
+        "type": "restaurant",
+        "cuisine": "barbecue;american",
+        "latitude": 27.7705061,
+        "longitude": -82.6500822,
+        "website": null
+    },
+    {
+        "name": "Webb's City Cellar",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.7717522,
+        "longitude": -82.6503411,
+        "website": "https://www.greenbenchbrewing.com/webbs-city-cellar"
+    },
+    {
+        "name": "Red Mesa Mercado",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.7717063,
+        "longitude": -82.6500452,
+        "website": "https://redmesamercado.com/"
+    },
+    {
+        "name": "Lotus Vegetarian",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.839435,
+        "longitude": -82.7278471,
+        "website": null
+    },
+    {
+        "name": "Da Sesto Italiano Ristorante e Vino",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.8382092,
+        "longitude": -82.7282158,
+        "website": null
+    },
+    {
+        "name": "Nine Spices Hot Pot",
+        "type": "restaurant",
+        "cuisine": "chinese;korean",
+        "latitude": 27.8340248,
+        "longitude": -82.7276202,
+        "website": "https://www.ninespiceshotpotfl.com/"
+    },
+    {
+        "name": "La Teresita",
+        "type": "restaurant",
+        "cuisine": "latin_american",
+        "latitude": 27.8370137,
+        "longitude": -82.728077,
+        "website": "http://www.lateresitapinellas.com/"
     },
     {
         "name": "Champion Pizza",
@@ -7486,6 +10806,94 @@
         "latitude": 28.0228923,
         "longitude": -82.5044485,
         "website": "https://www.goldenphoenixtampa.com/"
+    },
+    {
+        "name": "O'Keefe's Restaurant & Bar",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.9529266,
+        "longitude": -82.7996948,
+        "website": null
+    },
+    {
+        "name": "Sonny's",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 27.8396749,
+        "longitude": -82.6934941,
+        "website": null
+    },
+    {
+        "name": "Señor Taco",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.8395703,
+        "longitude": -82.7247357,
+        "website": null
+    },
+    {
+        "name": "Sila Thai",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 27.8069522,
+        "longitude": -82.7004014,
+        "website": null
+    },
+    {
+        "name": "Smokin' Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.8004246,
+        "longitude": -82.6798357,
+        "website": null
+    },
+    {
+        "name": "Po Folks",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7898813,
+        "longitude": -82.678814,
+        "website": "https://www.pofolks.net/"
+    },
+    {
+        "name": "Siam Garden",
+        "type": "restaurant",
+        "cuisine": "thai",
+        "latitude": 27.8013268,
+        "longitude": -82.646443,
+        "website": "https://www.siamgardenthai.com/"
+    },
+    {
+        "name": "Three Birds Tavern",
+        "type": "pub",
+        "cuisine": "american",
+        "latitude": 27.7866519,
+        "longitude": -82.6388319,
+        "website": "https://threebirdstavern.com/"
+    },
+    {
+        "name": "China City",
+        "type": "restaurant",
+        "cuisine": "chinese",
+        "latitude": 27.7846246,
+        "longitude": -82.6383547,
+        "website": "http://www.chinacitystpete.com/"
+    },
+    {
+        "name": "Fourth Street Shrimp Store",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.7821413,
+        "longitude": -82.6387994,
+        "website": "https://www.theshrimpstore.com/"
+    },
+    {
+        "name": "Country Pizza Italian Grill",
+        "type": "restaurant",
+        "cuisine": "pizza;italian",
+        "latitude": 27.9073185,
+        "longitude": -82.730025,
+        "website": "https://www.countrypizzaitaliangrill.com/"
     },
     {
         "name": "Carrabba's Italian Grill",
@@ -7544,6 +10952,22 @@
         "website": "https://www.crackerbarrel.com/Locations/States/fl/clearwater/535"
     },
     {
+        "name": "Trophy Fish",
+        "type": "restaurant",
+        "cuisine": "fish",
+        "latitude": 27.770756,
+        "longitude": -82.6614333,
+        "website": null
+    },
+    {
+        "name": "Sunshine Kitty Catfe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7705507,
+        "longitude": -82.6561229,
+        "website": "https://www.sunshinekittycatfe.com/"
+    },
+    {
         "name": "Buffalo Wild Wings",
         "type": "restaurant",
         "cuisine": "wings",
@@ -7568,6 +10992,22 @@
         "website": null
     },
     {
+        "name": "Casual Clam",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.8027056,
+        "longitude": -82.6470082,
+        "website": null
+    },
+    {
+        "name": "Sunset Grille",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.799202,
+        "longitude": -82.6470275,
+        "website": null
+    },
+    {
         "name": "Joe's Crab Shack",
         "type": "restaurant",
         "cuisine": "seafood",
@@ -7582,6 +11022,14 @@
         "latitude": 27.9653508,
         "longitude": -82.7305602,
         "website": null
+    },
+    {
+        "name": "Cappys Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7715952,
+        "longitude": -82.6727986,
+        "website": "http://cappyspizzaonline.com/Locations.aspx"
     },
     {
         "name": "Noble Crust",
@@ -7664,6 +11112,30 @@
         "website": null
     },
     {
+        "name": "Flamingo Sports Bar",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.7839984,
+        "longitude": -82.6469715,
+        "website": null
+    },
+    {
+        "name": "Hook's Sushi",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.7837636,
+        "longitude": -82.6469242,
+        "website": null
+    },
+    {
+        "name": "Sushi Rock Grill",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 27.7836689,
+        "longitude": -82.6464841,
+        "website": null
+    },
+    {
         "name": "Babalu",
         "type": "restaurant",
         "cuisine": "seafood",
@@ -7686,6 +11158,22 @@
         "latitude": 27.9219614,
         "longitude": -82.4932256,
         "website": "DatzTampa.com"
+    },
+    {
+        "name": "Swingers Patio Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "gastronomic",
+        "latitude": 27.771273,
+        "longitude": -82.6674482,
+        "website": "https://www.thequeensheadbar.com/"
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.8705172,
+        "longitude": -82.7616254,
+        "website": "https://www.starbucks.com/store-locator/store/1018298/bryan-dairy-starkey-10809-starkey-rd-unit-00037-largo-fl-337771144-us"
     },
     {
         "name": "Starbucks",
@@ -7728,6 +11216,22 @@
         "website": null
     },
     {
+        "name": "Il Ritorno",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.7714624,
+        "longitude": -82.6395992,
+        "website": null
+    },
+    {
+        "name": "Acropolis Greek Taverna",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 27.7714607,
+        "longitude": -82.6406445,
+        "website": "https://www.acropolistaverna.com/"
+    },
+    {
         "name": "Stonewood Grill & Tavern",
         "type": "restaurant",
         "cuisine": "american",
@@ -7760,6 +11264,30 @@
         "website": null
     },
     {
+        "name": "Yaya's",
+        "type": "restaurant",
+        "cuisine": "chicken",
+        "latitude": 27.9609176,
+        "longitude": -82.7637289,
+        "website": null
+    },
+    {
+        "name": "Pho Kien Giang",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.8460178,
+        "longitude": -82.7005362,
+        "website": "https://phokiengiangmenu1.wixsite.com/phokiengiang"
+    },
+    {
+        "name": "Parkside Cafe",
+        "type": "cafe",
+        "cuisine": "diner",
+        "latitude": 27.8462381,
+        "longitude": -82.7004459,
+        "website": "https://www.myparksidecafe.com"
+    },
+    {
         "name": "Bahama Breeze",
         "type": "restaurant",
         "cuisine": "caribbean",
@@ -7781,6 +11309,22 @@
         "cuisine": "Not Specified",
         "latitude": 27.9676062,
         "longitude": -82.5729654,
+        "website": null
+    },
+    {
+        "name": "Lucky Star",
+        "type": "restaurant",
+        "cuisine": "vietnamese",
+        "latitude": 27.8097179,
+        "longitude": -82.7281928,
+        "website": null
+    },
+    {
+        "name": "Grand Sushi Hibachi Buffet",
+        "type": "restaurant",
+        "cuisine": "asian;hibachi",
+        "latitude": 28.3086009,
+        "longitude": -82.7011701,
         "website": null
     },
     {
@@ -7806,6 +11350,14 @@
         "latitude": 27.9877695,
         "longitude": -82.7471583,
         "website": null
+    },
+    {
+        "name": "Pizza Hut",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.9617356,
+        "longitude": -82.7454592,
+        "website": "https://locations.pizzahut.com/fl/clearwater/407-s-belcher-rd"
     },
     {
         "name": "Cafe Cibo",
@@ -7848,6 +11400,22 @@
         "website": "https://www.starbucks.com/store-locator/store/7872/sr-60-mt-carmel-1265-e-brandon-blvd-brandon-fl-335115530-us"
     },
     {
+        "name": "Fuzzy's",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.9504582,
+        "longitude": -82.7755309,
+        "website": null
+    },
+    {
+        "name": "Fish Tales",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.7555207,
+        "longitude": -82.6352217,
+        "website": null
+    },
+    {
         "name": "Waffle House",
         "type": "restaurant",
         "cuisine": "american",
@@ -7888,6 +11456,14 @@
         "website": null
     },
     {
+        "name": "Chili's",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 28.2968513,
+        "longitude": -82.7066236,
+        "website": null
+    },
+    {
         "name": "Texas Roadhouse",
         "type": "restaurant",
         "cuisine": "steak_house",
@@ -7902,6 +11478,22 @@
         "latitude": 28.2357255,
         "longitude": -82.3511471,
         "website": "https://locations.wafflehouse.com/wesleychapel-fl-650/"
+    },
+    {
+        "name": "Cheddar's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.8397551,
+        "longitude": -82.690232,
+        "website": null
+    },
+    {
+        "name": "Building's Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.8394439,
+        "longitude": -82.7106973,
+        "website": null
     },
     {
         "name": "Ruby Tuesday",
@@ -7936,6 +11528,110 @@
         "website": null
     },
     {
+        "name": "Coney Island Grill",
+        "type": "restaurant",
+        "cuisine": "hot_dog",
+        "latitude": 27.7743745,
+        "longitude": -82.6469795,
+        "website": null
+    },
+    {
+        "name": "Buffalo Wild Wings",
+        "type": "restaurant",
+        "cuisine": "wings",
+        "latitude": 27.8940738,
+        "longitude": -82.784132,
+        "website": null
+    },
+    {
+        "name": "Chili's",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 27.8933822,
+        "longitude": -82.7865032,
+        "website": null
+    },
+    {
+        "name": "Olive Garden",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 27.8940259,
+        "longitude": -82.7857853,
+        "website": null
+    },
+    {
+        "name": "Hungry Crab",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.8927622,
+        "longitude": -82.7865007,
+        "website": null
+    },
+    {
+        "name": "Acropolis Greek Taverna",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.155596,
+        "longitude": -82.7588339,
+        "website": null
+    },
+    {
+        "name": "COPA",
+        "type": "restaurant",
+        "cuisine": "caribbean",
+        "latitude": 27.7713461,
+        "longitude": -82.6493739,
+        "website": "https://www.copadtsp.com/"
+    },
+    {
+        "name": "Engine Rose",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7713553,
+        "longitude": -82.6729903,
+        "website": null
+    },
+    {
+        "name": "The Studio Public House",
+        "type": "restaurant",
+        "cuisine": "sandwich",
+        "latitude": 27.7707567,
+        "longitude": -82.6736059,
+        "website": null
+    },
+    {
+        "name": "Punky's Bar and Grill",
+        "type": "restaurant",
+        "cuisine": "grill",
+        "latitude": 27.7712552,
+        "longitude": -82.6746846,
+        "website": "https://punkysbar.com/"
+    },
+    {
+        "name": "Bandit Coffee",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7707435,
+        "longitude": -82.6695312,
+        "website": "https://banditcoffee.co/"
+    },
+    {
+        "name": "Casita Taqueria",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.7712496,
+        "longitude": -82.6696999,
+        "website": null
+    },
+    {
+        "name": "Wild Child",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7707934,
+        "longitude": -82.6703712,
+        "website": null
+    },
+    {
         "name": "Chilli's",
         "type": "restaurant",
         "cuisine": "tex-mex",
@@ -7966,6 +11662,38 @@
         "latitude": 28.0054824,
         "longitude": -82.35648,
         "website": "https://locations.wafflehouse.com/tampa-fl-567/"
+    },
+    {
+        "name": "Outback Steakhouse",
+        "type": "restaurant",
+        "cuisine": "american;steak",
+        "latitude": 28.0956092,
+        "longitude": -81.9755072,
+        "website": null
+    },
+    {
+        "name": "Chili's",
+        "type": "restaurant",
+        "cuisine": "tex-mex",
+        "latitude": 28.0939773,
+        "longitude": -81.9746846,
+        "website": null
+    },
+    {
+        "name": "Buffalo Wild Wings",
+        "type": "restaurant",
+        "cuisine": "wings",
+        "latitude": 28.0898321,
+        "longitude": -81.9745827,
+        "website": null
+    },
+    {
+        "name": "Red Lobster",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 28.0894227,
+        "longitude": -81.9744925,
+        "website": null
     },
     {
         "name": "Applebee's",
@@ -8104,6 +11832,14 @@
         "website": "https://www.hamburgermarys.com/clearwater/"
     },
     {
+        "name": "SouZou",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 27.7777508,
+        "longitude": -82.6393196,
+        "website": null
+    },
+    {
         "name": "Fishhawk Pizza",
         "type": "restaurant",
         "cuisine": "pizza",
@@ -8118,6 +11854,14 @@
         "latitude": 27.9419272,
         "longitude": -82.468788,
         "website": "https://www.babushkas.us/hyde-park"
+    },
+    {
+        "name": "The Country Cuban",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.762922,
+        "longitude": -82.2491133,
+        "website": null
     },
     {
         "name": "International Beer Garten",
@@ -8195,6 +11939,14 @@
         "name": "Cracker Barrel",
         "type": "restaurant",
         "cuisine": "american",
+        "latitude": 28.2370178,
+        "longitude": -82.7286414,
+        "website": null
+    },
+    {
+        "name": "Cracker Barrel",
+        "type": "restaurant",
+        "cuisine": "american",
         "latitude": 28.033539,
         "longitude": -82.6461834,
         "website": null
@@ -8256,6 +12008,14 @@
         "website": null
     },
     {
+        "name": "Old Southeast Market",
+        "type": "restaurant",
+        "cuisine": "sandwich",
+        "latitude": 27.7534515,
+        "longitude": -82.6367223,
+        "website": null
+    },
+    {
         "name": "Oystercatchers",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -8272,6 +12032,14 @@
         "website": "https://www.ellasfolkartcafe.com/"
     },
     {
+        "name": "Nueva Cantina",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 27.754424,
+        "longitude": -82.6388858,
+        "website": null
+    },
+    {
         "name": "Chili's",
         "type": "restaurant",
         "cuisine": "tex-mex",
@@ -8280,11 +12048,35 @@
         "website": null
     },
     {
+        "name": "Golden Corral",
+        "type": "restaurant",
+        "cuisine": "american;buffet",
+        "latitude": 28.2871113,
+        "longitude": -82.7123522,
+        "website": null
+    },
+    {
         "name": "Stadium Cafe",
         "type": "restaurant",
         "cuisine": "cuban",
         "latitude": 27.9742026,
         "longitude": -82.4997542,
+        "website": null
+    },
+    {
+        "name": "Smugglers Island Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 28.0792262,
+        "longitude": -82.7658193,
+        "website": null
+    },
+    {
+        "name": "Casa Ludovico",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 28.0837137,
+        "longitude": -82.7669778,
         "website": null
     },
     {
@@ -8304,6 +12096,38 @@
         "website": null
     },
     {
+        "name": "Lorene's Fish House",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7604824,
+        "longitude": -82.6631612,
+        "website": null
+    },
+    {
+        "name": "Chief's Creole Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7609657,
+        "longitude": -82.6631649,
+        "website": null
+    },
+    {
+        "name": "Roosterfish Grill",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.9221673,
+        "longitude": -82.7872126,
+        "website": null
+    },
+    {
+        "name": "Denny's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.9251215,
+        "longitude": -82.7872388,
+        "website": null
+    },
+    {
         "name": "Tokyo",
         "type": "restaurant",
         "cuisine": "japanese",
@@ -8317,6 +12141,14 @@
         "cuisine": "steak_house",
         "latitude": 28.0960711,
         "longitude": -82.7389109,
+        "website": null
+    },
+    {
+        "name": "Fairway Pizza & Sports Bar",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0947795,
+        "longitude": -82.7730313,
         "website": null
     },
     {
@@ -8368,6 +12200,14 @@
         "website": "https://www.phoquyenhillsborough.com"
     },
     {
+        "name": "The Sports Shack Bar & Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9251247,
+        "longitude": -82.7880895,
+        "website": "https://sports-shack.com/"
+    },
+    {
         "name": "Pita Express",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -8408,6 +12248,102 @@
         "website": "https://ologybrewing.com/"
     },
     {
+        "name": "Fireside Pizza Cafe",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.0787855,
+        "longitude": -82.7657938,
+        "website": "https://firesidepizzacafe.dudaone.com/"
+    },
+    {
+        "name": "Driftwood Palm Harbor",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0777357,
+        "longitude": -82.7656833,
+        "website": null
+    },
+    {
+        "name": "The Fix Coffee + Vino",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.0726911,
+        "longitude": -82.7669826,
+        "website": null
+    },
+    {
+        "name": "Bogota Kitchen + Bar",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0769551,
+        "longitude": -82.7662727,
+        "website": null
+    },
+    {
+        "name": "Thirsty Marlin",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 28.0783007,
+        "longitude": -82.7664125,
+        "website": "https://www.thirstymarlin.com/"
+    },
+    {
+        "name": "Salty Lime Cantina",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0782911,
+        "longitude": -82.766691,
+        "website": null
+    },
+    {
+        "name": "Fatty's Fish Shack",
+        "type": "restaurant",
+        "cuisine": "seafood;bar_and_grill",
+        "latitude": 28.0787476,
+        "longitude": -82.7662302,
+        "website": null
+    },
+    {
+        "name": "Courtyard Cafe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.0693048,
+        "longitude": -82.7759589,
+        "website": null
+    },
+    {
+        "name": "The Ozona Pig",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 28.0693449,
+        "longitude": -82.7764317,
+        "website": null
+    },
+    {
+        "name": "Ozona Blue",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.058684,
+        "longitude": -82.776853,
+        "website": null
+    },
+    {
+        "name": "Little Brew Play Cafe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.0787818,
+        "longitude": -82.7648576,
+        "website": null
+    },
+    {
+        "name": "Ohana Fresh Cold Press Juice Bar",
+        "type": "cafe",
+        "cuisine": "juice",
+        "latitude": 28.0759441,
+        "longitude": -82.7661733,
+        "website": "https://www.theohanacafe.com/"
+    },
+    {
         "name": "Outback Steakhouse",
         "type": "restaurant",
         "cuisine": "american;steak",
@@ -8432,6 +12368,38 @@
         "website": null
     },
     {
+        "name": "The Gaelic Dish",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0104981,
+        "longitude": -82.7884672,
+        "website": null
+    },
+    {
+        "name": "Frenchy's Outpost",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0507892,
+        "longitude": -82.7833773,
+        "website": "https://frenchysonline.com/frenchys-outpost/"
+    },
+    {
+        "name": "Sandbar Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0499104,
+        "longitude": -82.7809808,
+        "website": null
+    },
+    {
+        "name": "Corvo Bianco Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.0489361,
+        "longitude": -82.7799801,
+        "website": null
+    },
+    {
         "name": "Himes Breakfast House",
         "type": "restaurant",
         "cuisine": "american;breakfast",
@@ -8446,6 +12414,14 @@
         "latitude": 27.9195505,
         "longitude": -82.4954941,
         "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7914879,
+        "longitude": -82.6798481,
+        "website": "https://www.starbucks.com/store-locator/store/1017781/us-19-22nd-ave-2190-34th-st-n-st-petersburg-fl-337133610-us"
     },
     {
         "name": "Deviled Pig & Deviled Pig Catering",
@@ -8496,12 +12472,28 @@
         "website": "https://eatfitlifefoods.com"
     },
     {
+        "name": "Doo.Ri.Ban",
+        "type": "restaurant",
+        "cuisine": "korean",
+        "latitude": 27.8230186,
+        "longitude": -82.7288761,
+        "website": null
+    },
+    {
         "name": "Thinh An Kitchen & Tofu",
         "type": "restaurant",
         "cuisine": "vietnamese",
         "latitude": 28.0254638,
         "longitude": -82.570578,
         "website": null
+    },
+    {
+        "name": "City Nights Pizza",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9316565,
+        "longitude": -82.7744921,
+        "website": "https://www.citynightspizzafl.com/"
     },
     {
         "name": "Olive Garden",
@@ -8848,6 +12840,22 @@
         "website": null
     },
     {
+        "name": "Our Place",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9540802,
+        "longitude": -82.7872355,
+        "website": null
+    },
+    {
+        "name": "Kissin' Cuzzins",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7816063,
+        "longitude": -82.6791153,
+        "website": null
+    },
+    {
         "name": "Bob Evans",
         "type": "restaurant",
         "cuisine": "american",
@@ -9064,6 +13072,14 @@
         "website": null
     },
     {
+        "name": "Pierogi Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.9604881,
+        "longitude": -82.773595,
+        "website": null
+    },
+    {
         "name": "Coppertail Brewing Co",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -9160,6 +13176,22 @@
         "website": "https://locations.wafflehouse.com/tampa-fl-2216/"
     },
     {
+        "name": "Monika's European Kitchen",
+        "type": "restaurant",
+        "cuisine": "german;hungarian",
+        "latitude": 27.9161688,
+        "longitude": -82.7667752,
+        "website": "https://monikaseuropeankitchen.com/"
+    },
+    {
+        "name": "The Left Bank Bistro",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7844494,
+        "longitude": -82.6464299,
+        "website": null
+    },
+    {
         "name": "Fresca Italian Kitchen",
         "type": "restaurant",
         "cuisine": "italian",
@@ -9176,11 +13208,35 @@
         "website": null
     },
     {
+        "name": "Pro Shop Pub",
+        "type": "pub",
+        "cuisine": "Not Specified",
+        "latitude": 27.9658326,
+        "longitude": -82.7945053,
+        "website": "https://proshoppub.us"
+    },
+    {
+        "name": "IHOP",
+        "type": "restaurant",
+        "cuisine": "breakfast;pancake",
+        "latitude": 27.8938549,
+        "longitude": -82.7463007,
+        "website": "https://restaurants.ihop.com/en-us/fl/largo/breakfast-7800-ulmerton-road-360190"
+    },
+    {
         "name": "Pinoy Saint Pete",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 27.8141241,
         "longitude": -82.6328139,
+        "website": null
+    },
+    {
+        "name": "La Casa Mexicana",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 28.3206501,
+        "longitude": -82.6987132,
         "website": null
     },
     {
@@ -9192,11 +13248,107 @@
         "website": null
     },
     {
+        "name": "Mad Hatter's Ethnobotanical Tea Bar",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.8145059,
+        "longitude": -82.6709999,
+        "website": "https://www.madhattersteabar.com/"
+    },
+    {
+        "name": "Pineapple Espresso",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.8001396,
+        "longitude": -82.6464761,
+        "website": null
+    },
+    {
+        "name": "Taste of Punjab",
+        "type": "restaurant",
+        "cuisine": "indian",
+        "latitude": 27.8388963,
+        "longitude": -82.7270955,
+        "website": null
+    },
+    {
+        "name": "Black Crow Coffee",
+        "type": "cafe",
+        "cuisine": "coffee;coffee_shop",
+        "latitude": 27.7704395,
+        "longitude": -82.662786,
+        "website": "https://www.blackcrowcoffeeco.com/"
+    },
+    {
+        "name": "Craftsman House",
+        "type": "cafe",
+        "cuisine": "regional",
+        "latitude": 27.7713004,
+        "longitude": -82.6737264,
+        "website": "http://www.craftsmanhousegallery.com/Homepage.html"
+    },
+    {
+        "name": "The Chelsea Saint Pete",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.7663437,
+        "longitude": -82.6669425,
+        "website": null
+    },
+    {
+        "name": "Marco's Pizza",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1362128,
+        "longitude": -82.0072992,
+        "website": null
+    },
+    {
+        "name": "Cicala's",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.1362344,
+        "longitude": -82.0060031,
+        "website": "https://www.cicalaspizza.com"
+    },
+    {
+        "name": "Bob Evans",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7113039,
+        "longitude": -82.3773634,
+        "website": null
+    },
+    {
+        "name": "Denny's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.7114444,
+        "longitude": -82.3759609,
+        "website": null
+    },
+    {
+        "name": "Pizza Hut",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 27.7132946,
+        "longitude": -82.3776319,
+        "website": "https://locations.pizzahut.com/fl/sun-city-center/712-cypress-village-blvd"
+    },
+    {
         "name": "Dining Facility",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 27.8505148,
         "longitude": -82.4865281,
+        "website": null
+    },
+    {
+        "name": "The Chattaway",
+        "type": "restaurant",
+        "cuisine": "burger;fish;fish_and_chips",
+        "latitude": 27.748311,
+        "longitude": -82.6383324,
         "website": null
     },
     {
@@ -9206,6 +13358,14 @@
         "latitude": 28.0687196,
         "longitude": -82.6324877,
         "website": "https://www.villageinn.com/locations/700867"
+    },
+    {
+        "name": "Fresco's Waterfront Bistro",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 27.7732364,
+        "longitude": -82.6314363,
+        "website": null
     },
     {
         "name": "World of Beer",
@@ -9280,12 +13440,36 @@
         "website": null
     },
     {
+        "name": "Dimitri's on the Water",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.1557166,
+        "longitude": -82.7598561,
+        "website": null
+    },
+    {
         "name": "ABC Pizza",
         "type": "restaurant",
         "cuisine": "greek",
         "latitude": 28.2158241,
         "longitude": -82.4605028,
         "website": "https://abcpizza.com/locations/land-o-lakes-fl"
+    },
+    {
+        "name": "Señor Rita's Tequilería & Margarita Factory",
+        "type": "restaurant",
+        "cuisine": "mexican",
+        "latitude": 28.0139074,
+        "longitude": -82.7895074,
+        "website": null
+    },
+    {
+        "name": "Bob Evans",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.2899468,
+        "longitude": -82.7124446,
+        "website": null
     },
     {
         "name": "Buffalo Wild Wings",
@@ -9304,11 +13488,35 @@
         "website": "https://restaurants.ihop.com/fl/riverview/360234/"
     },
     {
+        "name": "Allelo",
+        "type": "restaurant",
+        "cuisine": "mediterranean;wine",
+        "latitude": 27.7754988,
+        "longitude": -82.6323683,
+        "website": "https://www.allelostpete.com/"
+    },
+    {
         "name": "Chili's",
         "type": "restaurant",
         "cuisine": "tex-mex",
         "latitude": 27.9371061,
         "longitude": -82.2630844,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 27.9600789,
+        "longitude": -82.7466256,
+        "website": "https://www.starbucks.com/store-locator?map=27.960145,-82.746604,19z"
+    },
+    {
+        "name": "Bob Evans",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.9596033,
+        "longitude": -82.7465664,
         "website": null
     },
     {
@@ -9376,6 +13584,22 @@
         "website": "https://www.starbucks.com/store-locator/store/1024937/sr-54-trinity-11930-state-road-54-odessa-fl-335563491-us"
     },
     {
+        "name": "Kazu's Sushi",
+        "type": "restaurant",
+        "cuisine": "sushi",
+        "latitude": 28.2500068,
+        "longitude": -82.7201813,
+        "website": null
+    },
+    {
+        "name": "The Social NPR",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2499662,
+        "longitude": -82.720337,
+        "website": null
+    },
+    {
         "name": "IHOP",
         "type": "restaurant",
         "cuisine": "breakfast;pancake",
@@ -9398,6 +13622,62 @@
         "latitude": 28.1852536,
         "longitude": -82.4349058,
         "website": "https://www.tijuanaflats.com/"
+    },
+    {
+        "name": "Tarpon Tavern",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1468165,
+        "longitude": -82.7548164,
+        "website": null
+    },
+    {
+        "name": "Johnny's Taphouse and Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1458817,
+        "longitude": -82.753789,
+        "website": null
+    },
+    {
+        "name": "H'ours Creole Smokehouse",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1459915,
+        "longitude": -82.7532562,
+        "website": null
+    },
+    {
+        "name": "Rodie's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.138063,
+        "longitude": -82.756163,
+        "website": null
+    },
+    {
+        "name": "Sabor a Cuba",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.1555978,
+        "longitude": -82.7592855,
+        "website": null
+    },
+    {
+        "name": "Rusty Bellies Waterfront Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.1552137,
+        "longitude": -82.7644086,
+        "website": null
+    },
+    {
+        "name": "Costas Restaurant",
+        "type": "restaurant",
+        "cuisine": "greek",
+        "latitude": 28.1545367,
+        "longitude": -82.7604589,
+        "website": "https://www.costasgreekrestaurant.com/restaurant"
     },
     {
         "name": "Chuy's",
@@ -9432,6 +13712,14 @@
         "website": null
     },
     {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.2385221,
+        "longitude": -82.7282149,
+        "website": "https://www.starbucks.com/store-locator/store/6515/us-19-gulf-dr-5435-us-hwy-19-new-port-richey-fl-346523949-us"
+    },
+    {
         "name": "Babe's Pizza",
         "type": "restaurant",
         "cuisine": "pizza",
@@ -9454,6 +13742,14 @@
         "latitude": 28.2595021,
         "longitude": -82.187528,
         "website": "https://www.starbucks.com/store-locator/store/1024439/us-301-daughtery-rd-7010-gall-blvd-zephyrhills-fl-335411347-us"
+    },
+    {
+        "name": "Beef 'O' Brady's",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7140864,
+        "longitude": -82.3764694,
+        "website": null
     },
     {
         "name": "Waffle House",
@@ -9488,6 +13784,22 @@
         "website": "https://mission-bbq.com/"
     },
     {
+        "name": "Applebee's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.281607,
+        "longitude": -82.6764999,
+        "website": "https://restaurants.applebees.com/en-us/fl/new-port-richey/8537-little-road-93048"
+    },
+    {
+        "name": "Ruby Tuesday",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.2799232,
+        "longitude": -82.6741629,
+        "website": null
+    },
+    {
         "name": "Chili's",
         "type": "restaurant",
         "cuisine": "tex-mex",
@@ -9510,6 +13822,14 @@
         "latitude": 28.2430443,
         "longitude": -82.1883442,
         "website": "http://www.sunriseeatery2011.com/"
+    },
+    {
+        "name": "Perks! Cafe",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.3650515,
+        "longitude": -82.189335,
+        "website": null
     },
     {
         "name": "Chuck E. Cheese",
@@ -9552,12 +13872,68 @@
         "website": null
     },
     {
+        "name": "Kickin' Wings",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.3305548,
+        "longitude": -82.6710364,
+        "website": null
+    },
+    {
+        "name": "Leaning Tower of Pizza",
+        "type": "restaurant",
+        "cuisine": "pizza",
+        "latitude": 28.2345861,
+        "longitude": -82.7236841,
+        "website": null
+    },
+    {
+        "name": "Red Lobster",
+        "type": "restaurant",
+        "cuisine": "seafood",
+        "latitude": 28.2868669,
+        "longitude": -82.7141953,
+        "website": null
+    },
+    {
+        "name": "The Farmhouse Market & Café",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 28.3636741,
+        "longitude": -82.1872845,
+        "website": null
+    },
+    {
         "name": "Walk-On's Sports Bistreaux",
         "type": "restaurant",
         "cuisine": "Not Specified",
         "latitude": 28.1925327,
         "longitude": -82.3958734,
         "website": "https://locate.walk-ons.com/fl/lutz/restaurants-29.html"
+    },
+    {
+        "name": "Argento's Italian Bistro",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 28.3034375,
+        "longitude": -82.7026357,
+        "website": null
+    },
+    {
+        "name": "Asian Garden",
+        "type": "restaurant",
+        "cuisine": "asian",
+        "latitude": 28.3307247,
+        "longitude": -82.6594088,
+        "website": "https://order.asiangardenfl.com/"
+    },
+    {
+        "name": "Doc Ford's Rum Bar & Grille",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7728617,
+        "longitude": -82.6262177,
+        "website": null
     },
     {
         "name": "Vallarta's Mexican",
@@ -9656,12 +14032,36 @@
         "website": null
     },
     {
+        "name": "Olive Garden",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 28.2983682,
+        "longitude": -82.7056383,
+        "website": null
+    },
+    {
         "name": "Goodson Farms",
         "type": "restaurant",
         "cuisine": "strawberries",
         "latitude": 27.7696747,
         "longitude": -82.2808589,
         "website": null
+    },
+    {
+        "name": "LongHorn Steakhouse",
+        "type": "restaurant",
+        "cuisine": "steak_house",
+        "latitude": 28.2955888,
+        "longitude": -82.7074722,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.2920848,
+        "longitude": -82.7111121,
+        "website": "https://www.starbucks.com/store-locator/store/1021933/us-19-holiday-hills-blvd-9235-us-hwy-19-port-richey-fl-346684854-us"
     },
     {
         "name": "India's Grill",
@@ -9717,6 +14117,14 @@
         "cuisine": "wings",
         "latitude": 28.1868975,
         "longitude": -82.3725563,
+        "website": null
+    },
+    {
+        "name": "Jinju",
+        "type": "restaurant",
+        "cuisine": "korean",
+        "latitude": 27.7962111,
+        "longitude": -82.6800272,
         "website": null
     },
     {
@@ -9848,6 +14256,30 @@
         "website": null
     },
     {
+        "name": "Intermezzo Coffee & Cocktails",
+        "type": "cafe",
+        "cuisine": "american",
+        "latitude": 27.7713441,
+        "longitude": -82.6503707,
+        "website": null
+    },
+    {
+        "name": "City Perks",
+        "type": "cafe",
+        "cuisine": "Not Specified",
+        "latitude": 27.7792334,
+        "longitude": -82.6448037,
+        "website": null
+    },
+    {
+        "name": "Cider Press Cafe",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7713849,
+        "longitude": -82.6419478,
+        "website": "http://ciderpresscafe.com/"
+    },
+    {
         "name": "Pho Mai Asian Kitchen",
         "type": "restaurant",
         "cuisine": "asian",
@@ -9896,6 +14328,22 @@
         "website": null
     },
     {
+        "name": "Whiskey Joe's Bar & Grill - Port Richey",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.271308,
+        "longitude": -82.7258175,
+        "website": null
+    },
+    {
+        "name": "Boulevard Farmily Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2662633,
+        "longitude": -82.6747113,
+        "website": null
+    },
+    {
         "name": "Starbucks",
         "type": "cafe",
         "cuisine": "coffee_shop",
@@ -9909,6 +14357,22 @@
         "cuisine": "Not Specified",
         "latitude": 27.9978799,
         "longitude": -82.5795033,
+        "website": null
+    },
+    {
+        "name": "Starbucks",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.1471147,
+        "longitude": -82.741292,
+        "website": "https://www.starbucks.com/store-locator/store/1024906/us-hwy-19-e-tarpon-ave-41226-us-hwy-19-n-tarpon-springs-fl-346895439-us"
+    },
+    {
+        "name": "The Bistro Mediterranean Experience",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.146622,
+        "longitude": -82.7547888,
         "website": null
     },
     {
@@ -9942,6 +14406,22 @@
         "latitude": 28.2570208,
         "longitude": -82.1888225,
         "website": null
+    },
+    {
+        "name": "Carrabba's Italian Grill",
+        "type": "restaurant",
+        "cuisine": "italian",
+        "latitude": 28.3043914,
+        "longitude": -82.7019609,
+        "website": null
+    },
+    {
+        "name": "Steph's Southern Soul Restaurant",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.3692544,
+        "longitude": -82.1877118,
+        "website": "https://www.stephssouthernsoul.com/"
     },
     {
         "name": "Dave & Buster's",
@@ -9992,6 +14472,30 @@
         "website": null
     },
     {
+        "name": "The Dog House & More",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.720126,
+        "longitude": -82.4344395,
+        "website": null
+    },
+    {
+        "name": "Uncle Joe's New York Diner",
+        "type": "restaurant",
+        "cuisine": "burger;sandwich",
+        "latitude": 27.7270511,
+        "longitude": -82.4341781,
+        "website": null
+    },
+    {
+        "name": "Denny's",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.2241097,
+        "longitude": -82.7332488,
+        "website": null
+    },
+    {
         "name": "Pecks Flame Broiled Chicken",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -10000,11 +14504,35 @@
         "website": "https://www.pecksflamebroiledchicken.com"
     },
     {
+        "name": "IHOP",
+        "type": "restaurant",
+        "cuisine": "breakfast;pancake",
+        "latitude": 28.2282246,
+        "longitude": -82.7310462,
+        "website": null
+    },
+    {
         "name": "Cheddar's",
         "type": "restaurant",
         "cuisine": "american",
         "latitude": 28.0490139,
         "longitude": -82.5051634,
+        "website": null
+    },
+    {
+        "name": "Second City Eats",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2382422,
+        "longitude": -82.7200839,
+        "website": null
+    },
+    {
+        "name": "Seafire Grill",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.2311858,
+        "longitude": -82.7316564,
         "website": null
     },
     {
@@ -10048,6 +14576,14 @@
         "website": "https://capitaltacos.com/locations/land-olakes/"
     },
     {
+        "name": "Ybor Grille Southshore",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7346768,
+        "longitude": -82.429651,
+        "website": "https://yborgrille.com/"
+    },
+    {
         "name": "Fat Willies",
         "type": "restaurant",
         "cuisine": "seafood",
@@ -10083,6 +14619,22 @@
         "name": "White Duck Espresso",
         "type": "cafe",
         "cuisine": "coffee_shop",
+        "latitude": 28.2107831,
+        "longitude": -82.7400358,
+        "website": null
+    },
+    {
+        "name": "Reel BBQ",
+        "type": "restaurant",
+        "cuisine": "barbecue",
+        "latitude": 28.0786366,
+        "longitude": -82.7676546,
+        "website": null
+    },
+    {
+        "name": "White Duck Espresso",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
         "latitude": 28.1310704,
         "longitude": -82.5017822,
         "website": "https://whiteduck.es/"
@@ -10104,12 +14656,36 @@
         "website": null
     },
     {
+        "name": "Americana 50's Diner",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 28.1843915,
+        "longitude": -82.7395474,
+        "website": null
+    },
+    {
         "name": "Psomi",
         "type": "restaurant",
         "cuisine": "greek",
         "latitude": 27.9502611,
         "longitude": -82.4827305,
         "website": "https://www.eatpsomi.com/"
+    },
+    {
+        "name": "Glory Days Grill",
+        "type": "restaurant",
+        "cuisine": "american",
+        "latitude": 27.9973037,
+        "longitude": -81.9765612,
+        "website": "https://www.glorydaysgrill.com/locations/florida/lakeland/?locid=27"
+    },
+    {
+        "name": "Breakfast Station",
+        "type": "restaurant",
+        "cuisine": "breakfast;lunch",
+        "latitude": 28.2905082,
+        "longitude": -82.6772943,
+        "website": "https://www.breakfaststationcentral.com/"
     },
     {
         "name": "Acropolis",
@@ -10216,6 +14792,14 @@
         "website": "https://halongbaybistrofl.com"
     },
     {
+        "name": "White Duck Espresso",
+        "type": "cafe",
+        "cuisine": "coffee_shop",
+        "latitude": 28.2866774,
+        "longitude": -82.6763347,
+        "website": null
+    },
+    {
         "name": "Fresh Kitchen Lutz",
         "type": "restaurant",
         "cuisine": "Not Specified",
@@ -10229,6 +14813,22 @@
         "cuisine": "Not Specified",
         "latitude": 28.1948431,
         "longitude": -82.5936334,
+        "website": null
+    },
+    {
+        "name": "Twisted Indian",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 27.7712558,
+        "longitude": -82.6694693,
+        "website": "https://thetwistedindian.com/"
+    },
+    {
+        "name": "The Black Pearl",
+        "type": "restaurant",
+        "cuisine": "Not Specified",
+        "latitude": 28.0118728,
+        "longitude": -82.7894348,
         "website": null
     },
     {
