@@ -114,7 +114,7 @@
                 L.marker([uLat, uLon]).addTo(markerLayer).bindPopup("You are here!").openPopup();
 
                 try {
-                    const res = await fetch('data/gofood*.json');
+                    const res = await fetch('data/gofoodfl.json');
                     const data = await res.json();
                     data.forEach(p => p.distance = getDistance(uLat, uLon, p.latitude, p.longitude));
                     restaurants = data.sort((a, b) => a.distance - b.distance).slice(0, totalSegments);
