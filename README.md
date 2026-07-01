@@ -1,7 +1,9 @@
 # 🕹️ GoFoodFL Tampa Eats
 
 An ultra-lightweight, arcade-style app that turns the agonizing decision of picking where to eat into a retro arcade game.
-
+<p align="center">
+    <img width="260" height="450" alt="gofoodfl2" src="https://github.com/user-attachments/assets/5dda7b4e-8525-4908-b248-6803f9fe9c65" />
+</p>
 
 ## Features
 
@@ -22,19 +24,19 @@ An ultra-lightweight, arcade-style app that turns the agonizing decision of pick
 | Component | Technology | Engineering Impact |
 | :--- | :--- | :--- |
 | **Ingestion (ELT)** | Python 3 + Requests | Extracts raw, unstructured geospatial data from the Overpass API. |
-| **Pipeline Logic** | Python (OS, JSON) | Cleans corrupt records, standardizes coordinates, and enforces a strict schema. |
-| **Storage Layer** | Decoupled JSON | Replaced a traditional database server with a static asset to ensure zero-cost, instant mobile delivery. |
-| **Validation Layer** | HTML5 / Leaflet.js | Built a lightweight UI strictly to validate pipeline output and end-to-end data integrity. |
+| **Pipeline Logic** | Python (OS, JSON) | Cleans corrupt records, standardizes coordinates, and enforces schema. |
+| **Storage Layer** | Decoupled JSON | Replaced database server with a static asset for zero-cost and instant mobile delivery. |
+| **Validation Layer** | HTML5 / Leaflet.js | Built a lightweight UI to validate pipeline output and end-to-end data integrity. |
 
 
 ## Pipeline
 
 The project splits workflows into an execution engine (`maineats.py`) and a configuration manager (`build_datafood.py`).
 
-* **The Engine (`maineats.py`):** Does all the heavy lifting. Fetches and cleans raw geospatial data based on passed coordinates.
-* **The Controller (`build_datafood.py`):** The central config file where you set your target location and radius parameters.
-* **Multi-Region Scaling:** To pull data for a new city, just append its coordinates to the controller file without changing any core logic.
-* **Idempotent Output:** Every run overwrites the old JSON asset, ensuring fresh data with zero duplication or lag.
+* **`maineats.py`:** Does all the heavy lifting. Fetches and cleans raw geospatial data based on passed coordinates.
+* **`build_datafood.py`:** The central config file where you set your target location and radius parameters.
+* **multi-region scaling:** To pull data for a new city, just append its coordinates to the controller file without changing any core logic.
+* **idempotent output:** Every run overwrites the old JSON asset, ensuring fresh data with zero duplication or lag.
 
 ```python
 # To change regions or scale horizontally, modify the parameters in build_datafood.py:
@@ -53,11 +55,11 @@ maineats.download_region_data(
 * Python 3.
 * **Live Server** extension by Ritwick Dey installed in VS Code (or Python's built-in `http.server`).
 
-### Step-by-Step Installation
+### Installation
 
 1. **Clone the repository to your machine:**
 ```bash
-git clone [https://github.com/rcug/gofoodfl.git](https://github.com/rcug/gofoodfl.git)
+git clone https://github.com/rcug/gofoodfl.git
 cd gofood
 
 ```
@@ -81,7 +83,7 @@ Open the project folder in VS Code, click **Go Live** on the bottom status bar t
 
 ## Live Demo
 
-You can access the live application here: [Launch GoFoodFL Arcade](https://rcug.github.io/gofoodfl/gofoodfl.html)
+You can access the live application here: <a href="https://rcug.github.io/gofoodfl/gofoodfl.html" target="_blank">Launch GoFoodFL Arcade</a>
 
 ```
 
