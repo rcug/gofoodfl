@@ -7,33 +7,34 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         body { font-family: -apple-system, sans-serif; margin: 0; 
-               background: #f0f4f1; color: #2d3748; text-align: center; padding: 10px; }
+               background: #f0f4f1; color: #2d3748; text-align: center; padding: 6px; }
         .container { max-width: 500px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
-        #map { width: 100%; height: 280px; border-radius: 12px; margin-top: 20px; background: #e5e5e5; border: 1px solid #ddd; }
-        #locate-btn, #spin-btn { width: 80%; padding: 10px; font-size: 19px; 
-               font-weight: 600; border: none; border-radius: 5px; cursor: pointer; transition: all 0.2s ease; }
-        #locate-btn { background: #00c853; box-shadow: 0 5px 0 #009624; }
-        #spin-btn { background: #f1c40f; color: #2c3e50;  box-shadow: 0 5px 0 #d4af37; }
+        #map { width: 98%; height: 280px; border-radius: 12px; margin-top: 20px; background: #e5e5e5; border: 1px solid #ddd; }
+        #locate-btn, #spin-btn { width: 72%; padding: 5px; font-size: 16px; 
+               font-weight: 600; border: none; border-radius: 5px; cursor: pointer; transition: all 0.15s ease; }
+        #locate-btn { background: #00c853; color: #e1e5dc; box-shadow: 0 5px 0 #009624; }
+        #spin-btn { background: #f1c40f; color: #2c3e50; box-shadow: 0 5px 0 #d4af37; }
         #locate-btn:active, #spin-btn:active { transform: translateY(3px); box-shadow: 0 2px 0 #009624; }
         #spin-btn:active { box-shadow: 0 2px 0 #ba2d00; }
-        .wheel-wrapper { position: relative; margin: 15px 0; width: 350px; height: 350px; }
+        .wheel-wrapper { position: relative; margin: 15px 0; width: 325px; height: 325px; }
         #wheel { width: 100%; height: 100%; }
         .pointer { position: absolute; top: -10px; left: 50%; transform: translateX(-50%); width: 0; height: 0; 
-                   border-left: 15px solid transparent; border-right: 15px solid transparent; border-top: 25px solid #222; z-index: 10; }
-        #result-box { font-size: 18px; font-weight: bold; margin: 10px 0; min-height: 44px; display: flex; align-items: center; 
-                      justify-content: center; padding: 0 15px; }
+                   border-left: 15px solid transparent; border-right: 15px solid transparent; border-top: 20px solid #222; z-index: 10; }
+        #result-box { font-size:clamp(10px, 4.5vw, 15px); font-weight: bold; margin: 6px 0; min-height: 44px; display: flex; 
+            align-items: center; justify-content: center; padding: 0 10px;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .purple-pin { filter: hue-rotate(130deg) saturate(1.5); }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <h2 style="margin-bottom:5px; letter-spacing:1px;">🍕 GOFOOD ARCADE 🎡</h2>
+        <h2 style="margin-bottom:4px; letter-spacing:0.8px;">🍕 GOFOOD ARCADE 🎡</h2>
         <button id="locate-btn">📍Locate Me!</button>
         <div id="result-box">Tap above to unlock nearby spots!</div>
         <div class="wheel-wrapper">
             <div class="pointer"></div>
-            <canvas id="wheel" width="300" height="300"></canvas>
+            <canvas id="wheel" width="325" height="325"></canvas>
         </div>
         <button id="spin-btn">🎯 Spin the Wheel</button>
         <div id="map"></div>
@@ -118,7 +119,7 @@
                     const data = await res.json();
                     data.forEach(p => p.distance = getDistance(uLat, uLon, p.latitude, p.longitude));
                     restaurants = data.sort((a, b) => a.distance - b.distance).slice(0, totalSegments);
-                    toggleUiState("🎉 24 Choices Loaded! Ready?", "✓ Location Locked");
+                    toggleUiState("🎉 24 Choices Loaded! Ready?", "🔒 Location Locked");
                 } catch (e) {
                     resBox.innerText = "JSON Error. Using temporary arcade options!";
                     restaurants = Array.from({length: totalSegments}, (_, i) => ({
@@ -127,7 +128,7 @@
                         longitude: uLon + (Math.random() - 0.5) * 0.02,
                         distance: Math.random() * 2
                     }));
-                    toggleUiState("JSON Error. Using temporary options!", "✓ Location Locked");
+                    toggleUiState("JSON Error. Using temporary options!", "🔒 Location Locked");
                 }
                 drawWheel(restaurants);
             }, () => {
