@@ -20,10 +20,29 @@
         #wheel { width: 100%; height: 100%; }
         .pointer { position: absolute; top: -10px; left: 50%; transform: translateX(-50%); width: 0; height: 0; 
                    border-left: 15px solid transparent; border-right: 15px solid transparent; border-top: 20px solid #222; z-index: 10; }
-        #result-box { font-size:clamp(10px, 4.5vw, 15px); font-weight: bold; margin: 6px 0; min-height: 44px; display: flex; 
-            align-items: center; justify-content: center; padding: 0 10px;
-            white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        #result-box { font-size:clamp(10px, 4.2vw, 15px); font-weight: bold; margin: 6px 0; min-height: 44px; display: flex; 
+            align-items: center; justify-content: center; padding: 0 10px; width: 100%; box-sizing: border-box; }
+    
+        #result-box { font-size:clamp(10px, 4.2vw, 15px); font-weight: bold; margin: 14px 0; min-height: 44px; display: flex; 
+            align-items: center; justify-content: center; padding: 0 10px; width: 100%; box-sizing: border-box; }
         .purple-pin { filter: hue-rotate(130deg) saturate(1.5); }
+        @keyframes winnerBlink {
+            0% { border-color: transparent; box-shadow: 0 0 0px transparent; }
+            25% { border-color: #ff00ff; box-shadow: 0 0 15px #ff00ff; } 
+            50% { border-color: transparent; box-shadow: 0 0 0px transparent; }
+            75% { border-color: #ff00ff; box-shadow: 0 0 15px #ff00ff; }
+            100% { border-color: #ff00ff; box-shadow: 0 0 5px #ff00ff; } }
+        .winning-card { border: 2px solid transparent; border-radius: 8px; padding: 6px 12px; 
+            background: #fff; display: inline-flex; flex-direction: row; align-items: center; 
+            justify-content: center; width: 75%; box-sizing: border-box; gap: 8px;
+            font-size: clamp(8px, 3.8vw, 15px); animation: winnerBlink 1.5s ease-in-out forwards; }
+        .winning-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; 
+            max-width: 78%; font-weight: bold; } 
+        #result-box { font-size:clamp(12px, 4.2vw, 15px); font-weight: bold; margin: 14px 0; min-height: 44px; display: flex; 
+            align-items: center; justify-content: center; padding: 0 10px; width: 100%; box-sizing: border-box; }
+        .share-result-btn { background-color: #ff4757; color: white; border: none; width: 25px; height: 25px; font-size: 13px; 
+            flex-shrink: 0; border-radius: 45%; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; transition: background 0.1s; }
+        .share-result-btn:hover { background-color: #ff6b81; }
     </style>
 </head>
 <body>
@@ -158,9 +177,19 @@
                 const normRot = (2 * Math.PI - (currentRotation % (2 * Math.PI))) % (2 * Math.PI);
                 const winningIdx = Math.floor(((normRot + (3 * Math.PI / 2)) % (2 * Math.PI)) / arc) % totalSegments;
                 const winner = restaurants[winningIdx];
-
-                resBox.innerHTML = `🎉 Found Your Spot: <span style="color:#ff3d00; ` +
-                    `margin-left:5px;">${winner.name}</span>&nbsp;(${winner.distance.toFixed(1)} mi)`;
+                const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${winner.latitude},${winner.longitude}`;
+                resBox.innerHTML = `<div class="winning-card"><span class="winning-text">🎉 Found: ` +
+                    `<span style="color:#ff3d00;">${winner.name}</span>` +
+                    `</span><button id="shareWinnerBtn" class="share-result-btn">📲</button></div>`;
+                document.getElementById('shareWinnerBtn').addEventListener('click', async () => {
+                    const txt = `Let's eat at ${winner.name}! Map:`;
+                    if (navigator.share) {
+                        try { await navigator.share({ title: `Food: ${winner.name}`, text: txt, url: mapsUrl }); }
+                        catch (err) { console.log('Share dismissed'); }
+                    } else {
+                        navigator.clipboard.writeText(`${txt} ${mapsUrl}`);
+                        alert('Link copied to clipboard!'); }
+                });
                 
                 spinBtn.style.visibility = "visible";
                 spinBtn.style.opacity = "1";
