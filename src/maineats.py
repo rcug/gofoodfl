@@ -10,8 +10,15 @@ def get_local_eats_radius(lat, lon, radius_meters):
     query = f"""[out:json][timeout:90];
         (
           nwr["amenity"="restaurant"](around:{radius_meters},{lat},{lon});
+          nwr["amenity"="fast_food"](around:{radius_meters},{lat},{lon});
           nwr["amenity"="cafe"](around:{radius_meters},{lat},{lon});
+          nwr["amenity"="food_court"](around:{radius_meters},{lat},{lon});
           nwr["amenity"="pub"](around:{radius_meters},{lat},{lon});
+          nwr["amenity"="bar"](around:{radius_meters},{lat},{lon});
+          nwr["amenity"="ice_cream"](around:{radius_meters},{lat},{lon});
+          nwr["amenity"="street_food"](around:{radius_meters},{lat},{lon});
+          nwr["cuisine"="street_food"](around:{radius_meters},{lat},{lon});
+          nwr["cuisine"~"padang|indonesian|noodle|bakso|chicken"](around:{radius_meters},{lat},{lon});
         );
         out center;"""
     
