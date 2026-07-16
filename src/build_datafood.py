@@ -20,6 +20,13 @@ def run_scheduled_ingestion():
     #     radius=20000, 
     #     output_path="../data/gofoodtx.json"
     # )
+    # Target Region 3: 
+    # maineats.download_region_data(
+    #     lat=-6.2800, 
+    #     lon=106.9100, 
+    #     radius=RADIUS, 
+    #     output_path="../data/gofoodbks.json"
+    # )
 
     print("Pipeline Successfully Completed")
 
