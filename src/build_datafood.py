@@ -25,7 +25,7 @@ def run_scheduled_ingestion():
     #     lat=-6.2800, 
     #     lon=106.9100, 
     #     radius=RADIUS, 
-    #     output_path="../data/gofoodbks.json"
+    #     output_path="../data/gofoodbkz.json"
     # )
 
     print("Pipeline Successfully Completed")

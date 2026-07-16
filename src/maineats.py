@@ -4,39 +4,41 @@ import requests
 
 def get_local_eats_radius(lat, lon, radius_meters):
     overpass_url = "https://overpass-api.de/api/interpreter"
-    contact_info = os.getenv("APP_CONTACT_EMAIL", "anonymous357@example.com")
+    contact_info = os.getenv("APP_CONTACT_EMAIL", "anonymous579@example.com")
     user_agent = f"FriendsEatApp/1.0 (contact: {contact_info})"
 
-    query = f"""[out:json][timeout:90];
+    query = f"""[out:json][timeout:120];
         (
-          nwr["amenity"="restaurant"](around:{radius_meters},{lat},{lon});
-          nwr["amenity"="fast_food"](around:{radius_meters},{lat},{lon});
-          nwr["amenity"="cafe"](around:{radius_meters},{lat},{lon});
-          nwr["amenity"="food_court"](around:{radius_meters},{lat},{lon});
-          nwr["amenity"="pub"](around:{radius_meters},{lat},{lon});
-          nwr["amenity"="bar"](around:{radius_meters},{lat},{lon});
-          nwr["amenity"="ice_cream"](around:{radius_meters},{lat},{lon});
-          nwr["amenity"="street_food"](around:{radius_meters},{lat},{lon});
-          nwr["cuisine"="street_food"](around:{radius_meters},{lat},{lon});
-          nwr["cuisine"~"padang|indonesian|noodle|bakso|chicken"](around:{radius_meters},{lat},{lon});
+        node["amenity"~"restaurant|fast_food|cafe|food_court|bar|pub|ice_cream|street_food"](around:{radius_meters},{lat},{lon});
+        node["cuisine"~"padang|indonesian|noodle|bakso|chicken|ayam|street_food|sate|soto|warung|pecel|kantin|warteg|warkop"](around:{radius_meters},{lat},{lon});
+        node["shop"="bakery"](around:{radius_meters},{lat},{lon});
+        way["amenity"~"restaurant|fast_food|cafe|food_court|bar|pub|ice_cream|street_food"](around:{radius_meters},{lat},{lon});
+        way["cuisine"~"padang|indonesian|noodle|bakso|chicken|ayam|street_food|sate|soto|warung|pecel|kantin|warteg|warkop"](around:{radius_meters},{lat},{lon});
+        way["shop"="bakery"](around:{radius_meters},{lat},{lon});
         );
         out center;"""
-    
     headers = {
         "User-Agent": user_agent,
         "Content-Type": "application/x-www-form-urlencoded",
     }
-    
     response = requests.post(overpass_url, data={"data": query}, headers=headers, timeout=120)
     response.raise_for_status() 
     return response.json()
 
 def parse_osm_data(raw_data):
     cleaned_places = []
+    blacklist = ["public_building", "internet_cafe",
+        "kantor", "office", "bank", "atm", "masjid", "musholla", "church", "gereja", 
+        "school", "sekolah", "university", "universitas", "univ", "sd", "smp", "sma" ]
+    
     for element in raw_data.get("elements", []):
         tags = element.get("tags", {})
         name = tags.get("name", "").strip()
         if not name:
+            continue
+        name_lower = name.lower()
+        type_lower = (tags.get("amenity") or "").lower()
+        if any(keyword in name_lower or keyword in type_lower for keyword in blacklist):
             continue
             
         cleaned_places.append({
@@ -47,7 +49,11 @@ def parse_osm_data(raw_data):
             "longitude": element.get("lon") or element.get("center", {}).get("lon"),
             "website": tags.get("website"),
         })
-    return cleaned_places
+    sorted_places = sorted(
+        cleaned_places, 
+        key=lambda x: (x.get("latitude") or 0.0, x.get("longitude") or 0.0, x.get("name").lower())
+    )
+    return sorted_places
 
 def download_region_data(lat, lon, radius, output_path):
     """Fetches, parses, and saves OSM data for any given coordinate set."""
